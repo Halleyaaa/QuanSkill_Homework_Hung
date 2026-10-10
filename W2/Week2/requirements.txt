@@ -1,0 +1,8 @@
+# The pipeline (src/data/*.py) uses only the Python standard library (Python >= 3.10).
+# The packages below are needed for the tests and the profiling notebook.
+pandas>=2.0
+matplotlib>=3.7
+pytest>=7.0
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.0

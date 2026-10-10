@@ -1,0 +1,125 @@
+source_id,ticket_id,split,sender_role,reason_codes,details,redacted_text,raw_intent_label,source_row
+KB-012,,,kb_article,KB_STALE,age_days=694,,,1
+KB-014,,,kb_article,KB_MISSING_OWNER,,,,1
+MSG-000005,TCK-10002,test,customer,MSG_LENGTH_OUTLIER,chars=7043>fence=371,My refund for order ORD-81793 is not on my card yet. How long does it take? -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel is on its way. Track it on the order page. -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel,refund-status,5
+MSG-000006,TCK-10002,test,agent,THREAD_PENDING_REVIEW,,I checked order ORD-81793. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,6
+MSG-000007,TCK-10002,test,customer,THREAD_PENDING_REVIEW,,Can you confirm the address on the order?,,7
+MSG-000008,TCK-10002,test,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,8
+MSG-000011,TCK-10004,train,customer,MSG_LABEL_MISSING,,How long do I have to send back a product? I bought it last week (ORD-56449).,,11
+MSG-000012,TCK-10004,train,agent,THREAD_PENDING_REVIEW,,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,12
+MSG-000025,TCK-10009,validation,customer,MSG_LABEL_UNMAPPED,label='urgent',My parcel ORD-94983 has not moved for 4 days. Is something wrong?,urgent,25
+MSG-000026,TCK-10009,validation,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-94983 and the parcel is with the carrier.,,26
+MSG-000027,TCK-10010,train,customer,MSG_LABEL_MISSING,,My refund for order ORD-72610 is not on my card yet. How long does it take?,,27
+MSG-000028,TCK-10010,train,agent,THREAD_PENDING_REVIEW,,I checked order ORD-72610. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,28
+MSG-000041,TCK-10014,validation,customer,MSG_LENGTH_OUTLIER,chars=8002>fence=371,My refund for order ORD-75530 is not on my card yet. How long does it take? My phone is [PHONE]. -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel is on its way. Track it on the order page. -----Original message----- From: ShopNova <[EMAIL]> Subject: Your ord,REFUND,41
+MSG-000042,TCK-10014,validation,agent,THREAD_PENDING_REVIEW,,I checked order ORD-75530. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,42
+MSG-000043,TCK-10014,validation,customer,THREAD_PENDING_REVIEW,,OK. And what if it takes longer than that?,,43
+MSG-000044,TCK-10014,validation,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,44
+MSG-000073,TCK-10023,validation,customer,THREAD_NO_QUESTION,,"Thank you, that helps.",,73
+MSG-000074,TCK-10023,validation,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,74
+MSG-000075,TCK-10024,train,customer,MSG_LABEL_MISSING,,I returned order ORD-53524 two weeks ago and I still have no refund. Where is my money?,,75
+MSG-000076,TCK-10024,train,agent,THREAD_PENDING_REVIEW,,I checked order ORD-53524. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,76
+MSG-000097,TCK-10031,validation,customer,MSG_LABEL_MISSING,,How long does express delivery take to Hanoi? Asking about ORD-80775.,,97
+MSG-000098,TCK-10031,validation,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-80775 and the parcel is with the carrier.,,98
+MSG-000119,TCK-10040,train,customer,MSG_LABEL_MISSING,,I want to add one more item to ORD-62449. Is that possible?,,119
+MSG-000120,TCK-10040,train,agent,THREAD_PENDING_REVIEW,,"Order ORD-62449 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,120
+MSG-000121,TCK-10040,train,customer,THREAD_PENDING_REVIEW,,"Got it, thanks!",,121
+MSG-000122,TCK-10040,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,122
+MSG-000126,TCK-10042,train,agent,THREAD_NO_QUESTION,,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,126
+MSG-000127,TCK-10042,train,customer,THREAD_NO_QUESTION,,"Got it, thanks!",,127
+MSG-000128,TCK-10042,train,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,128
+MSG-000145,TCK-10049,test,customer,MSG_LENGTH_OUTLIER,chars=5693>fence=371,My parcel ORD-68951 has not moved for 4 days. Is something wrong? -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel is on its way. Track it on the order page. -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel is on its,delivery_time,145
+MSG-000146,TCK-10049,test,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-68951 and the parcel is with the carrier.,,146
+MSG-000147,TCK-10050,train,customer,MSG_LABEL_MISSING,,Payment failed but money left my account. Order ORD-89523.,,147
+MSG-000148,TCK-10050,train,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,148
+MSG-000163,TCK-10056,validation,customer,MSG_LABEL_MISSING,,When will order ORD-44708 arrive? I live in Da Nang.,,163
+MSG-000164,TCK-10056,validation,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-44708 and the parcel is with the carrier.,,164
+MSG-000165,TCK-10056,validation,customer,THREAD_PENDING_REVIEW,,Can you confirm the address on the order?,,165
+MSG-000166,TCK-10056,validation,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,166
+MSG-000190,TCK-10065,train,agent,THREAD_NO_QUESTION,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,190
+MSG-000227,TCK-10078,train,customer,MSG_LABEL_MISSING,,Can I still return an item I received 32 days ago? Order ORD-45228.,,227
+MSG-000228,TCK-10078,train,agent,THREAD_PENDING_REVIEW,,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,228
+MSG-000237,TCK-10081,validation,customer,MSG_LABEL_MISSING,,I was charged twice for order ORD-68784. Please check. My phone is [PHONE].,,237
+MSG-000238,TCK-10081,validation,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,238
+MSG-000239,TCK-10081,validation,customer,THREAD_PENDING_REVIEW,,OK. And what if it takes longer than that?,,239
+MSG-000240,TCK-10081,validation,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,240
+MSG-000251,TCK-10087,train,customer,MSG_LABEL_MISSING,,I returned order ORD-81038 two weeks ago and I still have no refund. Where is my money?,,251
+MSG-000252,TCK-10087,train,agent,THREAD_PENDING_REVIEW,,I checked order ORD-81038. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,252
+MSG-000253,TCK-10087,train,customer,THREAD_PENDING_REVIEW,,"Thank you, that helps.",,253
+MSG-000254,TCK-10087,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,254
+MSG-000256,TCK-10088,test,agent,THREAD_NO_QUESTION,,I checked order ORD-99924. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,256
+MSG-000257,TCK-10088,test,customer,THREAD_NO_QUESTION,,Can you confirm the address on the order?,,257
+MSG-000258,TCK-10088,test,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,258
+MSG-000297,TCK-10102,test,customer,MSG_LABEL_MISSING,,When will I get my refund for ORD-80682? The return was accepted on Monday. My phone is [PHONE].,,297
+MSG-000298,TCK-10102,test,agent,THREAD_PENDING_REVIEW,,I checked order ORD-80682. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,298
+MSG-000299,TCK-10102,test,customer,THREAD_PENDING_REVIEW,,Can you confirm the address on the order?,,299
+MSG-000300,TCK-10102,test,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,300
+MSG-000356,TCK-10120,validation,agent,THREAD_NO_QUESTION,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,356
+MSG-000357,TCK-10120,validation,customer,THREAD_NO_QUESTION,,OK. And what if it takes longer than that?,,357
+MSG-000358,TCK-10120,validation,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,358
+MSG-000379,TCK-10129,train,customer,MSG_LENGTH_OUTLIER,chars=4878>fence=371,I was charged twice for order ORD-84036. Please check. -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel is on its way. Track it on the order page. -----Original message----- From: ShopNova <[EMAIL]> Subject: Your order update Your parcel is on its way. Track,Payment,379
+MSG-000380,TCK-10129,train,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,380
+MSG-000387,TCK-10132,test,customer,MSG_LABEL_UNMAPPED,label='see notes',When will order ORD-59053 arrive? I live in Da Nang.,see notes,387
+MSG-000388,TCK-10132,test,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-59053 and the parcel is with the carrier.,,388
+MSG-000445,TCK-10153,train,customer,MSG_LABEL_MISSING,,I lost my gift card code. Can you send it again?,,445
+MSG-000446,TCK-10153,train,agent,THREAD_PENDING_REVIEW,,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,446
+MSG-000447,TCK-10154,test,customer,MSG_LABEL_MISSING,,How long does express delivery take to Hanoi? Asking about ORD-72008.,,447
+MSG-000448,TCK-10154,test,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-72008 and the parcel is with the carrier.,,448
+MSG-000449,TCK-10154,test,customer,THREAD_PENDING_REVIEW,,OK. And what if it takes longer than that?,,449
+MSG-000450,TCK-10154,test,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,450
+MSG-000453,TCK-10156,train,customer,MSG_LABEL_MISSING,,The laptop charger from ORD-68094 is broken. How do I make a warranty claim?,,453
+MSG-000454,TCK-10156,train,agent,THREAD_PENDING_REVIEW,,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,454
+MSG-000495,TCK-10170,train,customer,MSG_LABEL_MISSING,,I was charged twice for order ORD-94123. Please check. You can reach me at [EMAIL].,,495
+MSG-000496,TCK-10170,train,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,496
+MSG-000497,TCK-10170,train,customer,THREAD_PENDING_REVIEW,,"Still nothing after a week, please check again.",,497
+MSG-000498,TCK-10170,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,498
+MSG-000502,TCK-10172,train,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-72803 and the parcel is with the carrier.,,502
+MSG-000503,TCK-10172,train,customer,MSG_LABEL_MISSING,,Can you confirm the address on the order?,,503
+MSG-000504,TCK-10172,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,504
+MSG-000517,TCK-10177,train,customer,MSG_LABEL_MISSING,,Payment failed but money left my account. Order ORD-81107.,,517
+MSG-000518,TCK-10177,train,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,518
+MSG-000520,TCK-10178,train,agent,THREAD_NO_QUESTION,,I checked order ORD-64863. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,520
+MSG-000521,TCK-10178,train,customer,THREAD_NO_QUESTION,,OK. And what if it takes longer than that?,,521
+MSG-000522,TCK-10178,train,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,522
+MSG-000528,TCK-10180,validation,agent,THREAD_NO_QUESTION,,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,528
+MSG-000529,TCK-10180,validation,customer,THREAD_NO_QUESTION,,"Thank you, that helps.",,529
+MSG-000530,TCK-10180,validation,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,530
+MSG-000535,TCK-10183,test,customer,MSG_LABEL_MISSING,,When will I get my refund for ORD-56263? The return was accepted on Monday.,,535
+MSG-000537,TCK-10184,train,customer,MSG_LABEL_MISSING,,"Hi, I want to return the shoes from order ORD-76184. They do not fit. How do I do it? You can reach me at [EMAIL].",,537
+MSG-000538,TCK-10184,train,agent,THREAD_PENDING_REVIEW,,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,538
+MSG-000541,TCK-10186,train,customer,MSG_LABEL_MISSING,,The laptop charger from ORD-60922 is broken. How do I make a warranty claim?,,541
+MSG-000542,TCK-10186,train,agent,THREAD_PENDING_REVIEW,,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,542
+MSG-000543,TCK-10186,train,customer,THREAD_PENDING_REVIEW,,"Still nothing after a week, please check again.",,543
+MSG-000544,TCK-10186,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,544
+MSG-000566,TCK-10193,test,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,566
+MSG-000567,TCK-10193,test,customer,MSG_LABEL_MISSING,,"Still nothing after a week, please check again.",,567
+MSG-000568,TCK-10193,test,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,568
+MSG-000569,TCK-10194,train,customer,MSG_LABEL_UNMAPPED,label='misc??',How long does express delivery take to Hanoi? Asking about ORD-65661.,misc??,569
+MSG-000570,TCK-10194,train,agent,THREAD_PENDING_REVIEW,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-65661 and the parcel is with the carrier.,,570
+MSG-000599,TCK-10204,train,customer,MSG_LABEL_MISSING,,Can I change the delivery address for order ORD-88848? I just placed it.,,599
+MSG-000600,TCK-10204,train,agent,THREAD_PENDING_REVIEW,,"Order ORD-88848 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,600
+MSG-000601,TCK-10204,train,customer,THREAD_PENDING_REVIEW,,Can you confirm the address on the order?,,601
+MSG-000613,TCK-10208,train,customer,MSG_LABEL_UNMAPPED,label='TBD',I lost my gift card code. Can you send it again?,TBD,613
+MSG-000614,TCK-10208,train,agent,THREAD_PENDING_REVIEW,,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,614
+MSG-000615,TCK-10208,train,customer,THREAD_PENDING_REVIEW,,"Got it, thanks!",,615
+MSG-000616,TCK-10208,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,616
+MSG-000627,TCK-10212,validation,customer,MSG_LABEL_MISSING,,How long do I have to send back a product? I bought it last week (ORD-60863). My phone is [PHONE].,,627
+MSG-000628,TCK-10212,validation,agent,THREAD_PENDING_REVIEW,,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,628
+MSG-000629,TCK-10212,validation,customer,THREAD_PENDING_REVIEW,,Can you confirm the address on the order?,,629
+MSG-000630,TCK-10212,validation,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,630
+MSG-000656,TCK-10220,validation,agent,THREAD_NO_QUESTION,,"Order ORD-45730 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,656
+MSG-000657,TCK-10220,validation,customer,THREAD_NO_QUESTION,,"Got it, thanks!",,657
+MSG-000658,TCK-10220,validation,agent,THREAD_NO_QUESTION,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,658
+MSG-000661,TCK-10222,train,customer,MSG_LABEL_MISSING,,Payment failed but money left my account. Order ORD-98029.,,661
+MSG-000662,TCK-10222,train,agent,THREAD_PENDING_REVIEW,,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,662
+MSG-000663,TCK-10222,train,customer,THREAD_PENDING_REVIEW,,"Still nothing after a week, please check again.",,663
+MSG-000664,TCK-10222,train,agent,THREAD_PENDING_REVIEW,,Thanks for the update. I have added a note to the ticket and will follow up by email.,,664
+MSG-000669,TCK-10224,train,customer,MSG_LABEL_MISSING,,The jacket in order ORD-69704 is not what I expected. Is the return free?,,669
+MSG-000670,TCK-10224,train,agent,THREAD_PENDING_REVIEW,,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,670
+MSG-000672,TCK-10225,train,agent,THREAD_NO_QUESTION,,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-94546 and the parcel is with the carrier.,,672
+MSG-000689,TCK-10226,train,customer,MSG_NEAR_DUPLICATE,,PAYMENT FAILED BUT MONEY LEFT MY ACCOUNT. ORDER ORD-97118.,,689
+MSG-000690,TCK-10144,train,customer,MSG_NEAR_DUPLICATE,,"PLEASE CANCEL ORDER ORD-70551, I ORDERED THE WRONG SIZE.",,690
+MSG-000691,TCK-10201,validation,customer,MSG_NEAR_DUPLICATE,,I WANT TO ADD ONE MORE ITEM TO ORD-68647. IS THAT POSSIBLE?,,691
+MSG-000692,TCK-10040,train,customer,MSG_NEAR_DUPLICATE|THREAD_PENDING_REVIEW,,"GOT IT, THANKS!",,692
+MSG-000693,TCK-10003,train,customer,MSG_NEAR_DUPLICATE,,SCREEN FLICKERS ON THE TABLET I BOUGHT (ORD-76962). WHAT CAN I DO?,,693
+MSG-000694,TCK-10036,train,customer,MSG_NEAR_DUPLICATE,,WHEN WILL ORDER ORD-74388 ARRIVE? I LIVE IN DA NANG.,,694

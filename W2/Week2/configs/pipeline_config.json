@@ -1,0 +1,58 @@
+{
+  "pipeline_version": "week2-v1.0",
+  "snapshot_utc": "2026-09-29T17:00:00Z",
+  "_snapshot_note": "Export taken 30 Sep 2026 00:00 local time (UTC+07). Anything later is a future record.",
+  "naive_timestamp_offset": "+07:00",
+  "_naive_note": "ASSUMED: timestamps without a zone are helpdesk local time UTC+07. To be confirmed with the source owner.",
+  "inputs": {
+    "knowledge_glob": "data/raw/knowledge_base/KB-*.md",
+    "tickets_csv": "data/raw/tickets/tickets_export_2026-09-30.csv",
+    "inventory_csv": "data/raw/SOURCE_INVENTORY.csv"
+  },
+  "outputs": {
+    "processed_dir": "data/processed",
+    "quarantine_dir": "data/quarantine"
+  },
+  "knowledge": {
+    "min_body_chars": 50,
+    "stale_after_days": 365,
+    "required_fields": ["kb_id", "title", "category", "owner", "approved", "last_reviewed", "version"]
+  },
+  "tickets": {
+    "in_scope_language": "en",
+    "vietnamese_diacritics_min": 2,
+    "near_duplicate_window_seconds": 300,
+    "length_outlier_iqr_multiplier": 3.0,
+    "post_outcome_fields": ["resolution_status", "csat_score", "resolved_at", "handle_time_min"],
+    "handle_time_extreme_min": 480
+  },
+  "split": {
+    "strategy": "temporal_by_ticket_group",
+    "group_key": "ticket_id",
+    "time_key": "first_message_utc",
+    "local_offset": "+07:00",
+    "train_before_local": "2026-08-01",
+    "validation_before_local": "2026-09-01"
+  },
+  "intent_map": {
+    "return_policy": "return_policy", "returnpolicy": "return_policy", "returns": "return_policy",
+    "refund_status": "refund_status", "refund": "refund_status",
+    "delivery_time": "delivery_time", "delivery": "delivery_time", "shipping_delay": "delivery_time",
+    "warranty_claim": "warranty_claim", "warranty": "warranty_claim",
+    "order_change": "order_change", "cancel_order": "order_change",
+    "account_access": "account_access", "login": "account_access", "password_reset": "account_access",
+    "payment_issue": "payment_issue", "payment": "payment_issue", "double_charge": "payment_issue",
+    "other": "other", "gift_card": "other"
+  },
+  "in_scope_intents": ["return_policy", "refund_status", "delivery_time", "warranty_claim",
+                       "order_change", "account_access", "payment_issue", "other"],
+  "channel_map": {
+    "email": "email", "e_mail": "email",
+    "chat": "chat", "live_chat": "chat",
+    "web_form": "web_form", "webform": "web_form"
+  },
+  "targets": {
+    "message_publish_rate_min": 0.90,
+    "complete_thread_rate_min": 0.85
+  }
+}

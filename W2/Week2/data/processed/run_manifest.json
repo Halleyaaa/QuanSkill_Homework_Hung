@@ -1,0 +1,164 @@
+{
+  "pipeline_version": "week2-v1.0",
+  "status": "PASSED",
+  "run_started_utc": "2026-10-10T14:07:07Z",
+  "run_finished_utc": "2026-10-10T14:07:07Z",
+  "python": "3.13.16",
+  "config_path": "configs/pipeline_config.json",
+  "config_sha256": "4c7e2228497ced92ebfff689402e534b47faa839d372ff2d2bde0c386c2af21b",
+  "inputs": {
+    "data/raw/knowledge_base/KB-001.md": "517ce1df763c029a5dfe64b61c3774598297be14d5bf29e9a1652d5f6c990ba6",
+    "data/raw/knowledge_base/KB-002.md": "6532bd0c59c3cb78e5a99ef190634bb3384b650729ade51b674235fda0acef06",
+    "data/raw/knowledge_base/KB-003.md": "2643a14d59e459e4cb0e40c4accbb158e53a56b24144eb81d046f2e8e4c8aa7e",
+    "data/raw/knowledge_base/KB-004.md": "c5de76ac62e340d9d4b7f8a78d0d9f5fe851f937f8056d690b9346344b858efb",
+    "data/raw/knowledge_base/KB-005.md": "f53615fb923e130ee85e423afd6344cc2dbc963de9c0b9907e558cab6c92fe56",
+    "data/raw/knowledge_base/KB-006.md": "2cfe5c6f72d3fbf19c2989e6904d20fbe37f463c84daf1675d563c32819009d1",
+    "data/raw/knowledge_base/KB-007.md": "1b49bdfa565fd4d106b9cb7932f43e0f1c2bf04c31c4696ad8f8109ad364f7f0",
+    "data/raw/knowledge_base/KB-008.md": "f9f8953ac3ef03e11d90129de59e375e3d5b2e5d9b1fceae438a2283bcc07225",
+    "data/raw/knowledge_base/KB-009.md": "271606df5088a9b4d1ebcb8a6cc29c92c4f9e7b1465935f9029bc61161ae6c39",
+    "data/raw/knowledge_base/KB-010.md": "7ba687d6fb5f6c441ae714d132de20fb81df6477a7e786d4daf8a470a909f5d3",
+    "data/raw/knowledge_base/KB-011.md": "95ed0d8b4ffb90a50bb84bddafd1740dd06675ce2a36b59409e51a9c825899bc",
+    "data/raw/knowledge_base/KB-012.md": "2a188e1684fd0bc47fc915aa1790c1d17e2f4377d37b7036b0bfa2cfc895c6c5",
+    "data/raw/knowledge_base/KB-013.md": "5a5c18c73da204befe395105333f5e19c2ee8dde104ca880b9642242fa6dd64a",
+    "data/raw/knowledge_base/KB-014.md": "1c5943be6866ab52109208cdb602758bdad2958567c4f711c2b88a85a3a1da12",
+    "data/raw/tickets/tickets_export_2026-09-30.csv": "b9dae65141e07d9552baf576b764d2783b01732d1bf549070e06df020dcb60b7"
+  },
+  "counts": {
+    "knowledge_articles": {
+      "raw": 14,
+      "publish": 9,
+      "review": 2,
+      "quarantine": 3
+    },
+    "ticket_messages": {
+      "raw": 706,
+      "publish": 547,
+      "review": 122,
+      "quarantine": 37
+    },
+    "total_records": {
+      "raw": 720,
+      "publish": 556,
+      "review": 124,
+      "quarantine": 40
+    }
+  },
+  "reason_code_counts": {
+    "KB_DUPLICATE_CONTENT": 1,
+    "KB_EMPTY_BODY": 1,
+    "KB_MISSING_OWNER": 1,
+    "KB_NOT_APPROVED": 1,
+    "KB_STALE": 1,
+    "MSG_DUPLICATE_EXACT": 12,
+    "MSG_EMPTY_TEXT": 6,
+    "MSG_FUTURE_TIMESTAMP": 2,
+    "MSG_INVALID_TIMESTAMP": 5,
+    "MSG_LABEL_MISSING": 25,
+    "MSG_LABEL_UNMAPPED": 4,
+    "MSG_LENGTH_OUTLIER": 4,
+    "MSG_MISSING_TICKET_ID": 4,
+    "MSG_NEAR_DUPLICATE": 6,
+    "MSG_OUT_OF_SCOPE_LANGUAGE": 6,
+    "MSG_PAYMENT_DATA": 3,
+    "THREAD_NO_QUESTION": 22,
+    "THREAD_PENDING_REVIEW": 62
+  },
+  "split": {
+    "strategy": "temporal_by_ticket_group",
+    "boundaries_local": [
+      "2026-08-01",
+      "2026-09-01"
+    ],
+    "counts": {
+      "train": {
+        "messages": 263,
+        "tickets": 92
+      },
+      "validation": {
+        "messages": 147,
+        "tickets": 49
+      },
+      "test": {
+        "messages": 137,
+        "tickets": 47
+      }
+    },
+    "customers_in_multiple_splits": 1,
+    "customers_total": 186
+  },
+  "fitted_on_train": {
+    "length_outlier_fence_chars": 371.0
+  },
+  "readiness_metrics": {
+    "message_publish_rate": 0.7748,
+    "message_review_rate": 0.1728,
+    "message_quarantine_rate": 0.0524,
+    "kb_publish_rate": 0.6429,
+    "tickets_total": 230,
+    "tickets_complete_published": 187,
+    "complete_thread_rate": 0.813,
+    "pii_redactions_in_published_messages": 18,
+    "handle_time_flags": {
+      "ok": 222,
+      "invalid_zero": 3,
+      "invalid_negative": 2,
+      "extreme_gt_480": 3
+    }
+  },
+  "gates": [
+    {
+      "gate": "G1_INPUT_INTEGRITY",
+      "severity": "critical",
+      "passed": true,
+      "detail": "15 files match inventory hashes"
+    },
+    {
+      "gate": "G2_NO_RESIDUAL_PII",
+      "severity": "critical",
+      "passed": true,
+      "detail": "0 processed records with e-mail/phone/card patterns"
+    },
+    {
+      "gate": "G3_NO_TICKET_ACROSS_SPLITS",
+      "severity": "critical",
+      "passed": true,
+      "detail": "0 tickets appear in more than one split"
+    },
+    {
+      "gate": "G4_ACCOUNTING_RECONCILES",
+      "severity": "critical",
+      "passed": true,
+      "detail": "kb 14=9+2+3; messages 706=547+122+37"
+    },
+    {
+      "gate": "G5_KB_INTENT_COVERAGE",
+      "severity": "critical",
+      "passed": true,
+      "detail": "intents without a published article: none"
+    },
+    {
+      "gate": "T1_MESSAGE_PUBLISH_RATE",
+      "severity": "target",
+      "passed": false,
+      "detail": "0.7748 vs target >= 0.9"
+    },
+    {
+      "gate": "T2_COMPLETE_THREAD_RATE",
+      "severity": "target",
+      "passed": false,
+      "detail": "0.8130 vs target >= 0.85"
+    }
+  ],
+  "outputs": {
+    "knowledge": "data/processed/knowledge/knowledge_articles.jsonl",
+    "interactions": [
+      "data/processed/interactions/train.jsonl",
+      "data/processed/interactions/validation.jsonl",
+      "data/processed/interactions/test.jsonl"
+    ],
+    "ticket_outcomes": "data/processed/interactions/ticket_outcomes.csv",
+    "manifest": "data/processed/manifest.csv",
+    "quarantine_log": "data/quarantine/quarantine_log.csv",
+    "review_queue": "data/quarantine/review_queue.csv"
+  }
+}

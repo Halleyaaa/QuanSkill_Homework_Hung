@@ -1,0 +1,1468 @@
+message_id,ticket_id,created_at,channel,customer_ref,sender_role,message_text,intent_label,resolution_status,csat_score,resolved_at,handle_time_min
+MSG-000001,TCK-10001,2026-08-04T09:44:00Z,webform,CUST-2681,customer,Order ORD-82414 was supposed to arrive yesterday. Any update?,delivery_time,resolved,,2026-08-04T16:51:00Z,11.1
+MSG-000002,TCK-10001,2026-13-05T10:00:00Z,webform,CUST-2681,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-82414 and the parcel is with the carrier.,,resolved,,2026-08-04T16:51:00Z,11.1
+MSG-000003,TCK-10001,N/A,webform,CUST-2681,customer,Can you confirm the address on the order?,,resolved,,2026-08-04T16:51:00Z,11.1
+MSG-000004,TCK-10001,2026-08-04T16:24:00Z,webform,CUST-2681,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-04T16:51:00Z,11.1
+MSG-000005,TCK-10002,2026-09-04T09:45:00Z,chat,CUST-2250,customer,"My refund for order ORD-81793 is not on my card yet. How long does it take?
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+",refund-status,resolved,,2026-09-04T23:14:00Z,9.5
+MSG-000006,TCK-10002,2026-09-04T18:38:00+07:00,chat,CUST-2250,agent,I checked order ORD-81793. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-09-04T23:14:00Z,9.5
+MSG-000007,TCK-10002,2026-09-05T04:15:00+07:00,chat,CUST-2250,customer,Can you confirm the address on the order?,,resolved,,2026-09-04T23:14:00Z,9.5
+MSG-000008,TCK-10002,2026-09-04T22:19:00Z,chat,CUST-2250,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-04T23:14:00Z,9.5
+MSG-000009,TCK-10003,2026-07-04 15:10:00,chat,CUST-8851,customer,Screen flickers on the tablet I bought (ORD-76962). What can I do?,Warranty,resolved,,2026-07-04T12:07:00Z,39.6
+MSG-000010,TCK-10003,2026-07-04T17:18:00+07:00,chat,CUST-8851,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-07-04T12:07:00Z,39.6
+MSG-000011,TCK-10004,2026-07-31 17:18:00,CHAT,CUST-7587,customer,How long do I have to send back a product? I bought it last week (ORD-56449).,,resolved,,2026-07-31T12:18:00Z,18.6
+MSG-000012,TCK-10004,2026-07-31T18:01:00+07:00,CHAT,CUST-7587,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-07-31T12:18:00Z,18.6
+MSG-000013,TCK-10005,2026-07-17T04:24:00Z,live_chat,CUST-8955,customer,The laptop charger from ORD-57046 is broken. How do I make a warranty claim?,warranty_claim,resolved,,2026-07-17T08:38:00Z,20.7
+MSG-000014,TCK-10005,2026-07-17 14:32:00,live_chat,CUST-8955,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-07-17T08:38:00Z,20.7
+MSG-000015,TCK-10006,2026-07-25T16:10:00+07:00,Web Form,CUST-5365,customer,When will order ORD-44213 arrive? I live in Da Nang.,delivery_time,resolved,1,2026-07-25T14:48:00Z,17.7
+MSG-000016,TCK-10006,2026-07-25T10:05:00Z,Web Form,CUST-5365,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-44213 and the parcel is with the carrier.,,resolved,1,2026-07-25T14:48:00Z,17.7
+MSG-000017,TCK-10006,2026-07-25T11:00:00Z,Web Form,CUST-5365,customer,"Still nothing after a week, please check again.",,resolved,1,2026-07-25T14:48:00Z,17.7
+MSG-000018,TCK-10006,2026-07-25T20:22:00+07:00,Web Form,CUST-5365,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,1,2026-07-25T14:48:00Z,17.7
+MSG-000019,TCK-10007,2026-09-27T09:23:00Z,live_chat,CUST-3209,customer,Can I still return an item I received 24 days ago? Order ORD-85203.,Return Policy,resolved,,2026-09-27T12:30:00Z,12.9
+MSG-000020,TCK-10007,2026-09-27T11:41:00Z,live_chat,CUST-3209,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-09-27T12:30:00Z,12.9
+MSG-000021,TCK-10008,2026-06-07T13:55:00+07:00,web_form,CUST-6790,customer,I lost access to my old email. How can I update my account email?,account_access,resolved,5,2026-06-07T18:38:00Z,12.1
+MSG-000022,TCK-10008,2026-06-07T09:13:00Z,web_form,CUST-6790,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,5,2026-06-07T18:38:00Z,12.1
+MSG-000023,TCK-10008,2026-06-07T15:07:00Z,web_form,CUST-6790,customer,Can you confirm the address on the order?,,resolved,5,2026-06-07T18:38:00Z,12.1
+MSG-000024,TCK-10008,2026-06-08T00:11:00+07:00,web_form,CUST-6790,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-06-07T18:38:00Z,12.1
+MSG-000025,TCK-10009,2026-08-22T10:17:00Z,Chat,CUST-1789,customer,My parcel ORD-94983 has not moved for 4 days. Is something wrong?,urgent,resolved,,2026-08-22T14:02:00Z,14.8
+MSG-000026,TCK-10009,2026-08-22T12:10:00Z,Chat,CUST-1789,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-94983 and the parcel is with the carrier.,,resolved,,2026-08-22T14:02:00Z,14.8
+MSG-000027,TCK-10010,2026-07-04T08:55:00Z,Email,CUST-7811,customer,My refund for order ORD-72610 is not on my card yet. How long does it take?,,resolved,,2026-07-04T10:46:00Z,12.6
+MSG-000028,TCK-10010,2026-07-04T09:23:00Z,Email,CUST-7811,agent,I checked order ORD-72610. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-07-04T10:46:00Z,12.6
+MSG-000029,TCK-10011,2026-09-17T12:26:00Z,Email,CUST-1445,customer,I lost access to my old email. How can I update my account email?,password_reset,resolved,5,2026-09-17T23:43:00Z,25.6
+MSG-000030,TCK-10011,2026-09-17T14:53:00Z,Email,CUST-1445,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,5,2026-09-17T23:43:00Z,25.6
+MSG-000031,TCK-10011,2026-09-17T19:33:00Z,Email,CUST-1445,customer,"Thank you, that helps.",,resolved,5,2026-09-17T23:43:00Z,25.6
+MSG-000032,TCK-10011,2026-09-18T06:21:00+07:00,Email,CUST-1445,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-17T23:43:00Z,25.6
+MSG-000033,TCK-10012,2026-06-14T16:38:00+07:00,chat,CUST-5534,customer,Payment failed but money left my account. Order ORD-60548.,payment_issue,resolved,4,2026-06-14T15:19:00Z,10.6
+MSG-000034,TCK-10012,2026-06-14T16:48:00+07:00,chat,CUST-5534,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,4,2026-06-14T15:19:00Z,10.6
+MSG-000035,TCK-10012,2026-06-14T18:34:00+07:00,chat,CUST-5534,customer,"Still nothing after a week, please check again.",,resolved,4,2026-06-14T15:19:00Z,10.6
+MSG-000036,TCK-10012,2026-06-14T21:38:00+07:00,chat,CUST-5534,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-06-14T15:19:00Z,10.6
+MSG-000037,TCK-10013,2026-07-11T18:22:00+07:00,email,CUST-8580,customer,The laptop charger from ORD-54131 is broken. How do I make a warranty claim?,Warranty,resolved,,2026-07-11T18:36:00Z,30.7
+MSG-000038,TCK-10013,2026-07-11T21:30:00+07:00,email,CUST-8580,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-07-11T18:36:00Z,30.7
+MSG-000039,TCK-10013,2026-07-11 22:04:00,email,CUST-8580,customer,"Got it, thanks!",,resolved,,2026-07-11T18:36:00Z,30.7
+MSG-000040,TCK-10013,2026-07-11T17:58:00Z,email,CUST-8580,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-11T18:36:00Z,30.7
+MSG-000041,TCK-10014,2026-08-14T01:20:00Z,email,CUST-6611,customer,"My refund for order ORD-75530 is not on my card yet. How long does it take? My phone is 0984 229 464.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+",REFUND,resolved,3,2026-08-14T11:25:00Z,5.8
+MSG-000042,TCK-10014,2026-08-14T11:43:00+07:00,email,CUST-6611,agent,I checked order ORD-75530. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,3,2026-08-14T11:25:00Z,5.8
+MSG-000043,TCK-10014,2026-08-14T08:37:00Z,email,CUST-6611,customer,OK. And what if it takes longer than that?,,resolved,3,2026-08-14T11:25:00Z,5.8
+MSG-000044,TCK-10014,2026-08-14T10:15:00Z,email,CUST-6611,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-08-14T11:25:00Z,5.8
+MSG-000045,TCK-10015,2026-09-09 10:31:00,EMAIL,CUST-1382,customer,Password reset email never arrives. Please help.,password_reset,resolved,1,2026-09-09T09:31:00Z,14.3
+MSG-000046,TCK-10015,2026-09-09T11:57:00+07:00,EMAIL,CUST-1382,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,1,2026-09-09T09:31:00Z,14.3
+MSG-000047,TCK-10015,2026-09-09 12:18:00,EMAIL,CUST-1382,customer,OK. And what if it takes longer than that?,,resolved,1,2026-09-09T09:31:00Z,14.3
+MSG-000048,TCK-10015,2026-09-09 16:23:00,EMAIL,CUST-1382,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,1,2026-09-09T09:31:00Z,14.3
+MSG-000049,TCK-10016,2026-07-22 14:08:00,CHAT,CUST-4809,customer,Screen flickers on the tablet I bought (ORD-91784). What can I do?,Warranty,resolved,,2026-07-22T23:10:00Z,8.9
+MSG-000050,TCK-10016,2026-07-22T09:53:00Z,CHAT,CUST-4809,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-07-22T23:10:00Z,8.9
+MSG-000051,TCK-10016,2026-07-22T18:19:00Z,CHAT,CUST-4809,customer,"Thank you, that helps.",,resolved,,2026-07-22T23:10:00Z,8.9
+MSG-000052,TCK-10016,2026-07-22T21:25:00Z,CHAT,CUST-4809,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-22T23:10:00Z,8.9
+MSG-000053,TCK-10017,2026-07-09T07:21:00Z,email,CUST-5342,customer,Order ORD-75830 was supposed to arrive yesterday. Any update?,Delivery,escalated,,,24.4
+MSG-000054,TCK-10017,2026-07-09T07:52:00Z,email,CUST-5342,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-75830 and the parcel is with the carrier.,,escalated,,,24.4
+MSG-000055,TCK-10017,2026-07-09T14:40:00Z,email,CUST-5342,customer,"Got it, thanks!",,escalated,,,24.4
+MSG-000056,TCK-10017,2026-07-10T02:25:00+07:00,email,CUST-5342,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,escalated,,,24.4
+MSG-000057,TCK-10018,2026-07-08T13:02:00+07:00,EMAIL,CUST-5678,customer,My parcel ORD-75465 has not moved for 4 days. Is something wrong? You can reach me at cust5678@example.com.,delivery_time,resolved,5,2026-07-08T09:49:00Z,15.0
+MSG-000058,TCK-10018,2026-07-08T08:18:00Z,EMAIL,CUST-5678,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-75465 and the parcel is with the carrier.,,resolved,5,2026-07-08T09:49:00Z,15.0
+MSG-000059,TCK-10019,2026-07-18T06:09:00Z,Email,CUST-9718,customer,I returned order ORD-54168 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,,2026-07-18T22:19:00Z,26.5
+MSG-000060,TCK-10019,2026-07-18T07:43:00Z,Email,CUST-9718,agent,I checked order ORD-54168. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-07-18T22:19:00Z,26.5
+MSG-000061,TCK-10019,2026-07-18T23:23:00+07:00,Email,CUST-9718,customer,"Thank you, that helps.",,resolved,,2026-07-18T22:19:00Z,26.5
+MSG-000062,TCK-10019,2026-07-19 04:12:00,Email,CUST-9718,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-18T22:19:00Z,26.5
+MSG-000063,TCK-10020,2026-06-09T09:29:00+07:00,CHAT,CUST-9107,customer,My refund for order ORD-92980 is not on my card yet. How long does it take?,REFUND,resolved,,2026-06-09T16:04:00Z,9.4
+MSG-000064,TCK-10020,2026-06-09T03:19:00Z,CHAT,CUST-9107,agent,I checked order ORD-92980. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-06-09T16:04:00Z,9.4
+MSG-000065,TCK-10020,2026-06-09T18:23:00+07:00,CHAT,CUST-9107,customer,OK. And what if it takes longer than that?,,resolved,,2026-06-09T16:04:00Z,9.4
+MSG-000066,TCK-10020,2026-06-09T14:26:00Z,CHAT,CUST-9107,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-09T16:04:00Z,9.4
+MSG-000067,TCK-10021,2026-09-04T10:40:00Z,E-mail,CUST-3090,customer,My parcel ORD-83046 has not moved for 4 days. Is something wrong?,Delivery,pending,,,5.3
+MSG-000068,TCK-10021,2026-09-04T11:21:00Z,E-mail,CUST-3090,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-83046 and the parcel is with the carrier.,,pending,,,5.3
+MSG-000069,TCK-10022,2026-07-22T07:49:00Z,CHAT,CUST-6393,customer,Can I still return an item I received 32 days ago? Order ORD-41423.,Return Policy,resolved,,2026-07-22T09:38:00Z,19.3
+MSG-000070,TCK-10022,2026-07-22T16:36:00+07:00,CHAT,CUST-6393,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-07-22T09:38:00Z,19.3
+MSG-000071,TCK-10023,2026-08-14T18:59:00+07:00,live_chat,CUST-7793,customer,Tại sao tôi bị trừ tiền hai lần cho đơn ORD-80089?,Delivery,pending,,,12.6
+MSG-000072,TCK-10023,2026-08-14T14:15:00Z,live_chat,CUST-7793,agent,,,pending,,,12.6
+MSG-000073,TCK-10023,2026-08-14T20:43:00Z,live_chat,CUST-7793,customer,"Thank you, that helps.",,pending,,,12.6
+MSG-000074,TCK-10023,2026-08-15T01:32:00Z,live_chat,CUST-7793,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,12.6
+MSG-000075,TCK-10024,2026-06-29 15:54:00,chat,CUST-3798,customer,I returned order ORD-53524 two weeks ago and I still have no refund. Where is my money?,,resolved,,2026-06-29T11:49:00Z,21.4
+MSG-000076,TCK-10024,2026-06-29 18:19:00,chat,CUST-3798,agent,I checked order ORD-53524. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-06-29T11:49:00Z,21.4
+MSG-000077,TCK-10025,2026-07-14T13:51:00+07:00,CHAT,CUST-6207,customer,I was charged twice for order ORD-62768. Please check.,Payment,resolved,,2026-07-14T22:50:00Z,10.7
+MSG-000078,TCK-10025,2026-07-14T10:09:00Z,CHAT,CUST-6207,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-07-14T22:50:00Z,10.7
+MSG-000079,TCK-10025,2026-07-14T16:35:00Z,CHAT,CUST-6207,customer,"Got it, thanks!",,resolved,,2026-07-14T22:50:00Z,10.7
+MSG-000080,TCK-10025,2026-07-15T04:02:00+07:00,CHAT,CUST-6207,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-14T22:50:00Z,10.7
+MSG-000081,TCK-10026,2026-09-01 19:00:00,CHAT,CUST-9338,customer,Password reset email never arrives. Please help.,password_reset,escalated,,,23.6
+MSG-000082,TCK-10026,2026-09-01 19:51:00,CHAT,CUST-9338,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,escalated,,,23.6
+MSG-000083,TCK-10026,2026-09-01T22:36:00Z,CHAT,CUST-9338,customer,OK. And what if it takes longer than that?,,escalated,,,23.6
+MSG-000084,TCK-10026,2026-09-02 07:52:00,CHAT,CUST-9338,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,escalated,,,23.6
+MSG-000085,TCK-10027,2026-09-27T11:23:00Z,Chat,CUST-1473,customer,Why is there a pending charge on my statement? I cancelled ORD-54079.,double_charge,resolved,5,2026-09-28T00:48:00Z,17.5
+MSG-000086,TCK-10027,2026-09-27T12:51:00Z,Chat,CUST-1473,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-09-28T00:48:00Z,17.5
+MSG-000087,TCK-10027,2026-09-28 02:42:00,Chat,CUST-1473,customer,"Still nothing after a week, please check again.",,resolved,5,2026-09-28T00:48:00Z,17.5
+MSG-000088,TCK-10027,2026-09-28T07:23:00+07:00,Chat,CUST-1473,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-28T00:48:00Z,17.5
+MSG-000089,TCK-10028,2026-09-13T12:12:00Z,chat,CUST-2000,customer,How long does express delivery take to Hanoi? Asking about ORD-77548.,Delivery,resolved,5,2026-09-14T00:28:00Z,5.4
+MSG-000090,TCK-10028,2026-09-13T15:29:00Z,chat,CUST-2000,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-77548 and the parcel is with the carrier.,,resolved,5,2026-09-14T00:28:00Z,5.4
+MSG-000091,TCK-10028,2026-09-13T18:16:00Z,chat,CUST-2000,customer,Can you confirm the address on the order?,,resolved,5,2026-09-14T00:28:00Z,5.4
+MSG-000092,TCK-10028,2026-09-13T22:31:00Z,chat,CUST-2000,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-14T00:28:00Z,5.4
+MSG-000093,TCK-10029,2026-07-30T19:36:00+07:00,E-mail,CUST-7664,customer,The jacket in order ORD-88965 is not what I expected. Is the return free?,return_policy,resolved,4,2026-07-30T17:18:00Z,13.0
+MSG-000094,TCK-10029,yesterday,E-mail,CUST-7664,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,4,2026-07-30T17:18:00Z,13.0
+MSG-000095,TCK-10030,2026-07-01T11:50:00+07:00,Email,CUST-9102,customer,Password reset email never arrives. Please help.,password_reset,resolved,4,2026-07-01T05:46:00Z,12.2
+MSG-000096,TCK-10030,2026-07-01T05:18:00Z,Email,CUST-9102,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,4,2026-07-01T05:46:00Z,12.2
+MSG-000097,TCK-10031,2026-08-31T12:35:00Z,Email,CUST-3589,customer,How long does express delivery take to Hanoi? Asking about ORD-80775.,,resolved,4,2026-08-31T14:02:00Z,9.9
+MSG-000098,TCK-10031,2026-08-31T20:16:00+07:00,Email,CUST-3589,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-80775 and the parcel is with the carrier.,,resolved,4,2026-08-31T14:02:00Z,9.9
+MSG-000099,TCK-10032,2026-09-28T12:54:00Z,chat,CUST-6345,customer,"Hi, I want to return the shoes from order ORD-83910. They do not fit. How do I do it?",return_policy,resolved,,2026-09-28T14:14:00Z,6.5
+MSG-000100,TCK-10032,2026-09-28T13:16:00Z,chat,CUST-6345,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-09-28T14:14:00Z,6.5
+MSG-000101,TCK-10033,2026-08-13T15:47:00+07:00,Chat,CUST-8841,customer,I was charged twice for order ORD-80196. Please check.,double_charge,pending,,,0
+MSG-000102,TCK-10033,2026-08-13T12:31:00Z,Chat,CUST-8841,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,pending,,,0
+MSG-000103,TCK-10034,2026-07-12T08:59:00Z,E-mail,CUST-4973,customer,How long do I have to send back a product? I bought it last week (ORD-85249).,return_policy,resolved,5,2026-07-12T16:27:00Z,12.5
+MSG-000104,TCK-10034,2026-07-12T09:59:00Z,E-mail,CUST-4973,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-07-12T16:27:00Z,12.5
+MSG-000105,TCK-10034,2026-07-12T10:43:00Z,E-mail,CUST-4973,customer,"Still nothing after a week, please check again.",,resolved,5,2026-07-12T16:27:00Z,12.5
+MSG-000106,TCK-10034,2026-07-12T14:46:00Z,E-mail,CUST-4973,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-07-12T16:27:00Z,12.5
+MSG-000107,TCK-10035,2026-09-03T10:54:00Z,Chat,CUST-6791,customer,I returned order ORD-41723 two weeks ago and I still have no refund. Where is my money?,refund_status,escalated,,,8.1
+MSG-000108,TCK-10035,2026-09-03T14:25:00Z,Chat,CUST-6791,agent,I checked order ORD-41723. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,escalated,,,8.1
+MSG-000109,TCK-10036,2026-07-04T03:53:00Z,web_form,CUST-5364,customer,When will order ORD-74388 arrive? I live in Da Nang.,delivery_time,resolved,,2026-07-04T09:12:00Z,19.7
+MSG-000110,TCK-10036,2026-07-04 14:43:00,web_form,CUST-5364,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-74388 and the parcel is with the carrier.,,resolved,,2026-07-04T09:12:00Z,19.7
+MSG-000111,TCK-10037,2026-06-05T04:14:00Z,email,CUST-8888,customer,Payment failed but money left my account. Order ORD-82626. You can reach me at cust8888@example.com.,Payment,resolved,5,2026-06-05T20:10:00Z,8.4
+MSG-000112,TCK-10037,2026-06-05T06:37:00Z,email,CUST-8888,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-06-05T20:10:00Z,8.4
+MSG-000113,TCK-10037,2026-06-05T15:56:00Z,email,CUST-8888,customer,Can you confirm the address on the order?,,resolved,5,2026-06-05T20:10:00Z,8.4
+MSG-000114,TCK-10037,2026-06-05T19:58:00Z,email,CUST-8888,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-06-05T20:10:00Z,8.4
+MSG-000115,TCK-10038,2026-06-23T03:55:00Z,CHAT,CUST-3696,customer,Why is there a pending charge on my statement? I cancelled ORD-55524.,Payment,resolved,5,2026-06-23T05:20:00Z,12.5
+MSG-000116,TCK-10038,2026-06-23T04:38:00Z,CHAT,CUST-3696,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-06-23T05:20:00Z,12.5
+MSG-000117,TCK-10039,2026-09-13 14:28:00,CHAT,CUST-9159,customer,How long does express delivery take to Hanoi? Asking about ORD-45871.,Delivery,resolved,,2026-09-13T11:33:00Z,8.3
+MSG-000118,TCK-10039,2026-09-13T10:05:00Z,CHAT,CUST-9159,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-45871 and the parcel is with the carrier.,,resolved,,2026-09-13T11:33:00Z,8.3
+MSG-000119,TCK-10040,2026-06-02T08:29:00+07:00,chat,CUST-3875,customer,I want to add one more item to ORD-62449. Is that possible?,,resolved,,2026-06-02T12:08:00Z,8.8
+MSG-000120,TCK-10040,2026-06-02 10:49:00,chat,CUST-3875,agent,"Order ORD-62449 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-06-02T12:08:00Z,8.8
+MSG-000121,TCK-10040,2026-06-02T10:56:00Z,chat,CUST-3875,customer,"Got it, thanks!",,resolved,,2026-06-02T12:08:00Z,8.8
+MSG-000122,TCK-10040,2026-06-02T18:11:00+07:00,chat,CUST-3875,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-02T12:08:00Z,8.8
+MSG-000123,TCK-10041,2026-06-16T09:38:00+07:00,email,CUST-6320,customer,The jacket in order ORD-54904 is not what I expected. Is the return free?,returns,pending,,,23.9
+MSG-000124,TCK-10041,2026-06-16T03:58:00Z,email,CUST-6320,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,pending,,,23.9
+MSG-000125,TCK-10042,2026-06-27 11:38:00,live_chat,CUST-5824,customer,"I was charged twice for ORD-85813. My card is 4111 1111 1111 1111, please refund the second payment.",Return Policy,resolved,,2026-06-27T21:47:00Z,16.0
+MSG-000126,TCK-10042,2026-06-27T13:24:00+07:00,live_chat,CUST-5824,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-06-27T21:47:00Z,16.0
+MSG-000127,TCK-10042,2026-06-27T15:56:00Z,live_chat,CUST-5824,customer,"Got it, thanks!",,resolved,,2026-06-27T21:47:00Z,16.0
+MSG-000128,TCK-10042,2026-06-28 03:38:00,live_chat,CUST-5824,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-27T21:47:00Z,16.0
+MSG-000129,TCK-10043,2026-08-05 13:09:00,EMAIL,CUST-4201,customer,I returned order ORD-42454 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,,2026-08-05T08:32:00Z,17.8
+MSG-000130,TCK-10043,2026-08-05 14:11:00,EMAIL,CUST-4201,agent,I checked order ORD-42454. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-05T08:32:00Z,17.8
+MSG-000131,TCK-10044,2026-08-05T05:52:00Z,E-mail,CUST-9290,customer,The laptop charger from ORD-92498 is broken. How do I make a warranty claim?,warranty_claim,resolved,,2026-08-05T10:45:00Z,13.1
+MSG-000132,TCK-10044,2026-08-05T14:33:00+07:00,E-mail,CUST-9290,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-08-05T10:45:00Z,13.1
+MSG-000133,TCK-10044,2026-08-05T08:12:00Z,E-mail,CUST-9290,customer,"
+",,resolved,,2026-08-05T10:45:00Z,13.1
+MSG-000134,TCK-10044,2026-08-05T17:17:00+07:00,E-mail,CUST-9290,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-05T10:45:00Z,13.1
+MSG-000135,TCK-10045,2026-06-25T07:22:00Z,email,CUST-9934,customer,I returned order ORD-42036 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,4,2026-06-25T09:29:00Z,11.1
+MSG-000136,TCK-10045,2026-06-25T07:51:00Z,email,CUST-9934,agent,I checked order ORD-42036. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,4,2026-06-25T09:29:00Z,11.1
+MSG-000137,TCK-10046,2026-06-13T11:59:00Z,webform,CUST-4124,customer,Payment failed but money left my account. Order ORD-46912.,payment_issue,pending,1,,11.0
+MSG-000138,TCK-10046,2026-06-13 21:24:00,webform,CUST-4124,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,pending,1,,11.0
+MSG-000139,TCK-10047,2026-08-27 15:54:00,email,CUST-2027,customer,When will order ORD-67724 arrive? I live in Da Nang.,Delivery,resolved,3,2026-08-27T10:30:00Z,11.3
+MSG-000140,TCK-10047,2026-08-27T17:28:00+07:00,email,CUST-2027,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-67724 and the parcel is with the carrier.,,resolved,3,2026-08-27T10:30:00Z,11.3
+MSG-000141,TCK-10048,2026-07-04T08:25:00Z,CHAT,CUST-2676,customer,I want to add one more item to ORD-91504. Is that possible?,cancel_order,escalated,,,9.3
+MSG-000142,TCK-10048,2026-07-04T10:45:00Z,CHAT,CUST-2676,agent,"Order ORD-91504 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,escalated,,,9.3
+MSG-000143,TCK-10048,2026-07-04T18:29:00+07:00,CHAT,CUST-2676,customer,"Still nothing after a week, please check again.",,escalated,,,9.3
+MSG-000144,TCK-10048,2026-07-04 20:42:00,CHAT,CUST-2676,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,escalated,,,9.3
+MSG-000145,TCK-10049,2026-09-28T18:04:00+07:00,E-mail,CUST-3670,customer,"My parcel ORD-68951 has not moved for 4 days. Is something wrong?
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+",delivery_time,escalated,,,4.1
+MSG-000146,TCK-10049,2026-09-28T19:52:00+07:00,E-mail,CUST-3670,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-68951 and the parcel is with the carrier.,,escalated,,,4.1
+MSG-000147,TCK-10050,2026-07-18T08:20:00Z,live_chat,CUST-8420,customer,Payment failed but money left my account. Order ORD-89523.,,resolved,3,2026-07-18T09:08:00Z,17.8
+MSG-000148,TCK-10050,2026-07-18T08:30:00Z,live_chat,CUST-8420,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,3,2026-07-18T09:08:00Z,17.8
+MSG-000149,TCK-10051,2026-09-07T06:38:00Z,E-mail,CUST-5286,customer,Order ORD-68295 was supposed to arrive yesterday. Any update?,delivery_time,resolved,5,2026-09-07T07:40:00Z,10.1
+MSG-000150,TCK-10051,2026-09-07 14:10:00,E-mail,CUST-5286,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-68295 and the parcel is with the carrier.,,resolved,5,2026-09-07T07:40:00Z,10.1
+MSG-000151,TCK-10052,2026-09-10T02:13:00Z,EMAIL,CUST-7359,customer,The laptop charger from ORD-78619 is broken. How do I make a warranty claim?,Warranty,escalated,,,13.4
+MSG-000152,TCK-10052,2026-09-10T02:31:00Z,EMAIL,CUST-7359,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,escalated,,,13.4
+MSG-000153,TCK-10052,2026-09-10T05:14:00Z,EMAIL,CUST-7359,customer,"Got it, thanks!",,escalated,,,13.4
+MSG-000154,TCK-10052,2026-09-10T09:53:00Z,EMAIL,CUST-7359,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,escalated,,,13.4
+MSG-000155,TCK-10053,2026-09-14T16:09:00+07:00,CHAT,CUST-3407,customer,The jacket in order ORD-68907 is not what I expected. Is the return free?,return_policy,resolved,3,2026-09-14T15:25:00Z,11.9
+MSG-000156,TCK-10053,2026-09-14T09:33:00Z,CHAT,CUST-3407,agent,,,resolved,3,2026-09-14T15:25:00Z,11.9
+MSG-000157,TCK-10053,2026-09-14T10:59:00Z,CHAT,CUST-3407,customer,"Thank you, that helps.",,resolved,3,2026-09-14T15:25:00Z,11.9
+MSG-000158,TCK-10053,2026-09-14T14:11:00Z,CHAT,CUST-3407,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-09-14T15:25:00Z,11.9
+MSG-000159,TCK-10054,2026-08-08T10:35:00Z,Email,CUST-9904,customer,How long does express delivery take to Hanoi? Asking about ORD-47289.,delivery time,resolved,3,2026-08-08T12:15:00Z,7.4
+MSG-000160,TCK-10054,2026-08-08 18:28:00,Email,CUST-9904,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-47289 and the parcel is with the carrier.,,resolved,3,2026-08-08T12:15:00Z,7.4
+MSG-000161,TCK-10055,2026-08-19T12:53:00+07:00,E-mail,CUST-9754,customer,"Hi, I want to return the shoes from order ORD-92318. They do not fit. How do I do it?",Return Policy,pending,,,9.6
+MSG-000162,TCK-10055,2026-08-19T09:20:00Z,E-mail,CUST-9754,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,pending,,,9.6
+MSG-000163,TCK-10056,2026-08-26T08:04:00Z,E-mail,CUST-8844,customer,When will order ORD-44708 arrive? I live in Da Nang.,,resolved,3,2026-08-26T22:32:00Z,15.9
+MSG-000164,TCK-10056,2026-08-26T11:44:00Z,E-mail,CUST-8844,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-44708 and the parcel is with the carrier.,,resolved,3,2026-08-26T22:32:00Z,15.9
+MSG-000165,TCK-10056,2026-08-26T23:13:00+07:00,E-mail,CUST-8844,customer,Can you confirm the address on the order?,,resolved,3,2026-08-26T22:32:00Z,15.9
+MSG-000166,TCK-10056,2026-08-26T20:44:00Z,E-mail,CUST-8844,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-08-26T22:32:00Z,15.9
+MSG-000167,TCK-10057,2026-08-26T10:49:00Z,Web Form,CUST-9065,customer,My refund for order ORD-86997 is not on my card yet. How long does it take?,refund_status,resolved,,2026-08-26T14:44:00Z,18.4
+MSG-000168,TCK-10057,2026-08-26 21:41:00,Web Form,CUST-9065,agent,I checked order ORD-86997. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-26T14:44:00Z,18.4
+MSG-000169,TCK-10058,2026-08-16 08:40:00,Web Form,CUST-3387,customer,When will order ORD-70960 arrive? I live in Da Nang.,Delivery,resolved,3,2026-08-16T04:57:00Z,20.4
+MSG-000170,TCK-10058,2026-08-16T02:39:00Z,Web Form,CUST-3387,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-70960 and the parcel is with the carrier.,,resolved,3,2026-08-16T04:57:00Z,20.4
+MSG-000171,TCK-10058,2026-08-16T02:58:00Z,Web Form,CUST-3387,customer,"Thank you, that helps.",,resolved,3,2026-08-16T04:57:00Z,20.4
+MSG-000172,TCK-10058,2026-08-16 10:22:00,Web Form,CUST-3387,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-08-16T04:57:00Z,20.4
+MSG-000173,TCK-10059,2026-06-17T11:23:00+07:00,EMAIL,CUST-5940,customer,The laptop charger from ORD-85952 is broken. How do I make a warranty claim?,Warranty,resolved,4,2026-06-17T06:20:00Z,22.4
+MSG-000174,TCK-10059,2026-06-17T12:49:00+07:00,EMAIL,CUST-5940,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,4,2026-06-17T06:20:00Z,22.4
+MSG-000175,TCK-10060,2026-07-13T17:23:00+07:00,Chat,CUST-4187,customer,I lost access to my old email. How can I update my account email?,account_access,resolved,4,2026-07-13T16:00:00Z,5.2
+MSG-000176,TCK-10060,2026-07-13T21:06:00+07:00,Chat,CUST-4187,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,4,2026-07-13T16:00:00Z,5.2
+MSG-000177,TCK-10061,2026-07-06T08:55:00Z,live_chat,CUST-2102,customer,I was charged twice for order ORD-62029. Please check.,payment_issue,resolved,,2026-07-06T12:20:00Z,11.9
+MSG-000178,TCK-10061,2026-07-06T10:23:00Z,live_chat,CUST-2102,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-07-06T12:20:00Z,11.9
+MSG-000179,TCK-10062,2026-07-05T08:13:00+07:00,webform,CUST-5641,customer,Why is there a pending charge on my statement? I cancelled ORD-84534.,payment_issue,escalated,,,17.2
+MSG-000180,TCK-10062,0000-00-00 00:00:00,webform,CUST-5641,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,escalated,,,17.2
+MSG-000181,TCK-10062,2026-07-05T05:39:00Z,webform,CUST-5641,customer,Can you confirm the address on the order?,,escalated,,,17.2
+MSG-000182,TCK-10062,2026-07-05T06:31:00Z,webform,CUST-5641,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,escalated,,,17.2
+MSG-000183,TCK-10063,2026-06-09T01:56:00Z,web_form,CUST-1260,customer,"Hi, I want to return the shoes from order ORD-97927. They do not fit. How do I do it?",return_policy,resolved,,2026-06-09T06:30:00Z,14.2
+MSG-000184,TCK-10063,2026-06-09T05:26:00Z,web_form,CUST-1260,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-06-09T06:30:00Z,14.2
+MSG-000185,TCK-10064,2026-06-05T04:24:00Z,live_chat,CUST-6108,customer,"Refund for ORD-42371 still missing, it has been 9 days.",refund-status,resolved,,2026-06-05T07:06:00Z,14.1
+MSG-000186,TCK-10064,2026-06-05 13:00:00,live_chat,CUST-6108,agent,I checked order ORD-42371. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-06-05T07:06:00Z,14.1
+MSG-000187,TCK-10064,2026-06-05T06:15:00Z,live_chat,CUST-6108,customer,OK. And what if it takes longer than that?,,resolved,,2026-06-05T07:06:00Z,14.1
+MSG-000188,TCK-10064,2026-06-05T06:34:00Z,live_chat,CUST-6108,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-05T07:06:00Z,14.1
+MSG-000189,TCK-10065,31/02/2026 10:00,EMAIL,CUST-3730,customer,Payment failed but money left my account. Order ORD-60273.,payment_issue,escalated,,,22.7
+MSG-000190,TCK-10065,2026-06-01T01:32:00Z,EMAIL,CUST-3730,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,escalated,,,22.7
+MSG-000191,TCK-10066,2026-06-12T03:33:00Z,CHAT,CUST-8360,customer,Can I still return an item I received 18 days ago? Order ORD-90862.,returns,resolved,,2026-06-12T07:48:00Z,14.1
+MSG-000192,TCK-10066,2026-06-12T14:22:00+07:00,CHAT,CUST-8360,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-06-12T07:48:00Z,14.1
+MSG-000193,TCK-10067,2026-08-27T02:43:00Z,email,CUST-7873,customer,I lost my gift card code. Can you send it again?,gift_card,resolved,,2026-08-27T13:47:00Z,21.7
+MSG-000194,TCK-10067,2026-08-27 13:18:00,email,CUST-7873,agent,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,resolved,,2026-08-27T13:47:00Z,21.7
+MSG-000195,TCK-10067,2026-08-27T10:54:00Z,email,CUST-7873,customer,"Still nothing after a week, please check again.",,resolved,,2026-08-27T13:47:00Z,21.7
+MSG-000196,TCK-10067,2026-08-27T13:39:00Z,email,CUST-7873,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-27T13:47:00Z,21.7
+MSG-000197,TCK-10068,2026-07-24T09:50:00Z,Chat,CUST-6186,customer,When will I get my refund for ORD-49605? The return was accepted on Monday.,REFUND,resolved,5,2026-07-24T10:55:00Z,15.7
+MSG-000198,TCK-10068,2026-07-24 17:33:00,Chat,CUST-6186,agent,I checked order ORD-49605. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-07-24T10:55:00Z,15.7
+MSG-000199,TCK-10069,2026-09-10T10:58:00+07:00,Chat,CUST-9642,customer,I lost access to my old email. How can I update my account email?,Login,resolved,4,2026-09-10T05:37:00Z,8.6
+MSG-000200,TCK-10069,2026-09-10T11:09:00+07:00,Chat,CUST-9642,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,4,2026-09-10T05:37:00Z,8.6
+MSG-000201,TCK-10070,2026-07-19 09:01:00,live_chat,CUST-2967,customer,My refund for order ORD-97476 is not on my card yet. How long does it take?,refund-status,resolved,,2026-07-19T04:22:00Z,8.6
+MSG-000202,TCK-10070,2026-07-19T03:57:00Z,live_chat,CUST-2967,agent,I checked order ORD-97476. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-07-19T04:22:00Z,8.6
+MSG-000203,TCK-10071,2026-09-11T03:23:00Z,email,CUST-8664,customer,Screen flickers on the tablet I bought (ORD-99987). What can I do?,warranty_claim,resolved,,2026-09-11T13:29:00Z,5.2
+MSG-000204,TCK-10071,2026-09-11T04:56:00Z,email,CUST-8664,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-09-11T13:29:00Z,5.2
+MSG-000205,TCK-10071,2026-09-11 19:52:00,email,CUST-8664,customer,"Thank you, that helps.",,resolved,,2026-09-11T13:29:00Z,5.2
+MSG-000206,TCK-10071,2026-09-11T20:07:00+07:00,email,CUST-8664,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-11T13:29:00Z,5.2
+MSG-000207,TCK-10072,2026-09-24 13:42:00,EMAIL,CUST-5262,customer,My refund for order ORD-53408 is not on my card yet. How long does it take? My phone is 0916 546 298.,refund_status,resolved,2,2026-09-24T10:41:00Z,11.4
+MSG-000208,TCK-10072,2026-09-24T10:31:00Z,EMAIL,CUST-5262,agent,I checked order ORD-53408. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,2,2026-09-24T10:41:00Z,11.4
+MSG-000209,TCK-10073,2026-09-19T05:36:00Z,chat,CUST-4857,customer,I want to add one more item to ORD-54839. Is that possible?,order_change,resolved,,2026-09-19T09:54:00Z,13.4
+MSG-000210,TCK-10073,2026-09-19T14:04:00+07:00,chat,CUST-4857,agent,"Order ORD-54839 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-09-19T09:54:00Z,13.4
+MSG-000211,TCK-10073,2026-09-19T09:04:00Z,chat,CUST-4857,customer,Can you confirm the address on the order?,,resolved,,2026-09-19T09:54:00Z,13.4
+MSG-000212,TCK-10073,2026-09-19T09:48:00Z,chat,CUST-4857,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-19T09:54:00Z,13.4
+MSG-000213,TCK-10074,2026-06-14T14:02:00+07:00,email,CUST-3594,customer,When will order ORD-95196 arrive? I live in Da Nang.,shipping_delay,resolved,,2026-06-14T07:29:00Z,13.2
+MSG-000214,TCK-10074,2026-06-14 14:11:00,email,CUST-3594,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-95196 and the parcel is with the carrier.,,resolved,,2026-06-14T07:29:00Z,13.2
+MSG-000215,TCK-10075,2026-08-21T02:07:00Z,Email,CUST-4720,customer,"Refund for ORD-94141 still missing, it has been 18 days.",REFUND,resolved,,2026-08-21T07:23:00Z,9.3
+MSG-000216,TCK-10075,2026-08-21T09:23:00+07:00,Email,CUST-4720,agent,I checked order ORD-94141. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-21T07:23:00Z,9.3
+MSG-000217,TCK-10075,2026-08-21T02:45:00Z,Email,CUST-4720,customer,"Got it, thanks!",,resolved,,2026-08-21T07:23:00Z,9.3
+MSG-000218,TCK-10075,2026-08-21T05:26:00Z,Email,CUST-4720,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-21T07:23:00Z,9.3
+MSG-000219,TCK-10076,2026-07-03T03:23:00Z,email,CUST-8327,customer,Payment failed but money left my account. Order ORD-89565. You can reach me at cust8327@example.com.,double_charge,resolved,4,2026-07-03T14:25:00Z,7.4
+MSG-000220,TCK-10076,2026-07-03T03:33:00Z,email,CUST-8327,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,4,2026-07-03T14:25:00Z,7.4
+MSG-000221,TCK-10076,2026-07-03T10:26:00Z,email,CUST-8327,customer,"Got it, thanks!",,resolved,4,2026-07-03T14:25:00Z,7.4
+MSG-000222,TCK-10076,2026-07-03T21:23:00+07:00,email,CUST-8327,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-07-03T14:25:00Z,7.4
+MSG-000223,TCK-10077,2026-08-05 15:56:00,EMAIL,CUST-3731,customer,How long does express delivery take to Hanoi? Asking about ORD-91624.,delivery time,resolved,5,2026-08-05T19:11:00Z,14.3
+MSG-000224,TCK-10077,2026-08-05 17:21:00,EMAIL,CUST-3731,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-91624 and the parcel is with the carrier.,,resolved,5,2026-08-05T19:11:00Z,14.3
+MSG-000225,TCK-10077,2026-08-05T14:41:00Z,EMAIL,CUST-3731,customer,OK. And what if it takes longer than that?,,resolved,5,2026-08-05T19:11:00Z,14.3
+MSG-000226,TCK-10077,2026-08-05T18:21:00Z,EMAIL,CUST-3731,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-05T19:11:00Z,14.3
+MSG-000227,TCK-10078,2026-07-19T07:02:00Z,chat,CUST-7701,customer,Can I still return an item I received 32 days ago? Order ORD-45228.,,resolved,,2026-07-19T10:44:00Z,13.1
+MSG-000228,TCK-10078,2026-07-19T09:47:00Z,chat,CUST-7701,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-07-19T10:44:00Z,13.1
+MSG-000229,TCK-10079,2026-08-31T11:31:00Z,email,CUST-2448,customer,Can I change the delivery address for order ORD-72623? I just placed it.,order_change,resolved,1,2026-08-31T19:32:00Z,13.6
+MSG-000230,TCK-10079,2026-08-31T15:14:00Z,email,CUST-2448,agent,"Order ORD-72623 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,1,2026-08-31T19:32:00Z,13.6
+MSG-000231,TCK-10079,2026-08-31 23:53:00,email,CUST-2448,customer,Can you confirm the address on the order?,,resolved,1,2026-08-31T19:32:00Z,13.6
+MSG-000232,TCK-10079,2026-08-31T18:12:00Z,email,CUST-2448,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,1,2026-08-31T19:32:00Z,13.6
+MSG-000233,TCK-10080,2026-07-19 10:36:00,EMAIL,CUST-5365,customer,When will order ORD-58122 arrive? I live in Da Nang.,delivery time,resolved,,2026-07-19T09:49:00Z,11.4
+MSG-000234,TCK-10080,2026-07-19 11:21:00,EMAIL,CUST-5365,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-58122 and the parcel is with the carrier.,,resolved,,2026-07-19T09:49:00Z,11.4
+MSG-000235,TCK-10080,2026-07-19T06:04:00Z,EMAIL,CUST-5365,customer,"Got it, thanks!",,resolved,,2026-07-19T09:49:00Z,11.4
+MSG-000236,TCK-10080,2026-07-19T14:59:00+07:00,EMAIL,CUST-5365,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-19T09:49:00Z,11.4
+MSG-000237,TCK-10081,2026-08-24 14:43:00,Chat,CUST-3183,customer,I was charged twice for order ORD-68784. Please check. My phone is 0965 822 505.,,resolved,,2026-08-24T18:12:00Z,27.5
+MSG-000238,TCK-10081,2026-08-24T11:32:00Z,Chat,CUST-3183,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-08-24T18:12:00Z,27.5
+MSG-000239,TCK-10081,2026-08-24 20:13:00,Chat,CUST-3183,customer,OK. And what if it takes longer than that?,,resolved,,2026-08-24T18:12:00Z,27.5
+MSG-000240,TCK-10081,2026-08-24T17:47:00Z,Chat,CUST-3183,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-24T18:12:00Z,27.5
+MSG-000241,TCK-10082,2026-06-12T07:20:00Z,webform,CUST-1450,customer,The laptop charger from ORD-83568 is broken. How do I make a warranty claim?,Warranty,resolved,3,2026-06-12T09:56:00Z,21.2
+MSG-000242,TCK-10082,2026-06-12T09:31:00Z,webform,CUST-1450,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,3,2026-06-12T09:56:00Z,21.2
+MSG-000243,TCK-10083,2026-07-08 13:34:00,web_form,CUST-8043,customer,I returned order ORD-49859 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,5,2026-07-08T11:06:00Z,19.3
+MSG-000244,TCK-10083,2026-07-08T17:10:00+07:00,web_form,CUST-8043,agent,I checked order ORD-49859. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-07-08T11:06:00Z,19.3
+MSG-000245,TCK-10084,2026-07-13T01:47:00Z,CHAT,CUST-8509,customer,Can I still return an item I received 9 days ago? Order ORD-41832.,Return Policy,resolved,3,2026-07-13T03:02:00Z,10.6
+MSG-000246,TCK-10084,2026-07-13T09:58:00+07:00,CHAT,CUST-8509,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,3,2026-07-13T03:02:00Z,10.6
+MSG-000247,TCK-10085,2026-08-05T09:13:00+07:00,live_chat,CUST-6433,customer,The laptop charger from ORD-79918 is broken. How do I make a warranty claim?,warranty_claim,resolved,,2026-08-05T04:33:00Z,20.6
+MSG-000248,TCK-10085,2026-08-05T03:48:00Z,live_chat,CUST-6433,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-08-05T04:33:00Z,20.6
+MSG-000249,TCK-10086,2026-06-18T02:10:00Z,email,CUST-3814,customer,I was charged twice for order ORD-43255. Please check.,double_charge,pending,,,21.6
+MSG-000250,TCK-10086,2026-06-18T04:44:00Z,email,CUST-3814,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,pending,,,21.6
+MSG-000251,TCK-10087,2026-06-29T09:17:00Z,EMAIL,CUST-4772,customer,I returned order ORD-81038 two weeks ago and I still have no refund. Where is my money?,,resolved,,2026-06-30T00:20:00Z,20.3
+MSG-000252,TCK-10087,2026-06-29T18:20:00+07:00,EMAIL,CUST-4772,agent,I checked order ORD-81038. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-06-30T00:20:00Z,20.3
+MSG-000253,TCK-10087,2026-06-29T20:10:00Z,EMAIL,CUST-4772,customer,"Thank you, that helps.",,resolved,,2026-06-30T00:20:00Z,20.3
+MSG-000254,TCK-10087,2026-06-29T23:05:00Z,EMAIL,CUST-4772,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-30T00:20:00Z,20.3
+MSG-000255,TCK-10088,2026-09-17T07:02:00Z,Chat,CUST-8165,customer,"Chào shop, đơn hàng ORD-99924 của tôi bao giờ được giao ạ?",REFUND,resolved,,2026-09-17T15:29:00Z,9.1
+MSG-000256,TCK-10088,2026-09-17T15:13:00+07:00,Chat,CUST-8165,agent,I checked order ORD-99924. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-09-17T15:29:00Z,9.1
+MSG-000257,TCK-10088,2026-09-17T14:15:00Z,Chat,CUST-8165,customer,Can you confirm the address on the order?,,resolved,,2026-09-17T15:29:00Z,9.1
+MSG-000258,TCK-10088,2026-09-17T15:01:00Z,Chat,CUST-8165,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-17T15:29:00Z,9.1
+MSG-000259,TCK-10089,2026-07-24T19:04:00+07:00,CHAT,CUST-9859,customer,I returned order ORD-65282 two weeks ago and I still have no refund. Where is my money?,refund_status,resolved,,2026-07-25T02:47:00Z,8.9
+MSG-000260,TCK-10089,2026-07-24T21:06:00+07:00,CHAT,CUST-9859,agent,I checked order ORD-65282. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-07-25T02:47:00Z,8.9
+MSG-000261,TCK-10089,2026-07-24T20:51:00Z,CHAT,CUST-9859,customer,OK. And what if it takes longer than that?,,resolved,,2026-07-25T02:47:00Z,8.9
+MSG-000262,TCK-10089,2026-07-25T01:40:00Z,CHAT,CUST-9859,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-25T02:47:00Z,8.9
+MSG-000263,TCK-10090,2026-09-18T12:52:00Z,chat,CUST-2229,customer,Can I change the delivery address for order ORD-57802? I just placed it.,order_change,pending,,,24.9
+MSG-000264,TCK-10090,2026-09-18T15:52:00Z,chat,CUST-2229,agent,"Order ORD-57802 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,pending,,,24.9
+MSG-000265,TCK-10091,2026-09-06T02:53:00Z,CHAT,CUST-1991,customer,"Refund for ORD-73499 still missing, it has been 30 days.",Refund,resolved,5,2026-09-06T07:11:00Z,17.3
+MSG-000266,TCK-10091,2026-09-06T06:47:00Z,CHAT,CUST-1991,agent,I checked order ORD-73499. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-09-06T07:11:00Z,17.3
+MSG-000267,TCK-10092,2026-08-25 13:40:00,CHAT,CUST-1362,customer,I returned order ORD-93863 two weeks ago and I still have no refund. Where is my money?,REFUND,pending,,,12.0
+MSG-000268,TCK-10092,2026-08-25T16:11:00+07:00,CHAT,CUST-1362,agent,I checked order ORD-93863. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,pending,,,12.0
+MSG-000269,TCK-10093,2026-08-16T08:49:00Z,E-mail,CUST-6652,customer,How long does express delivery take to Hanoi? Asking about ORD-75455.,delivery time,resolved,,2026-08-16T12:16:00Z,7.0
+MSG-000270,TCK-10093,2026-08-16T11:12:00Z,E-mail,CUST-6652,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-75455 and the parcel is with the carrier.,,resolved,,2026-08-16T12:16:00Z,7.0
+MSG-000271,TCK-10094,2026-06-24T05:27:00Z,Web Form,CUST-5981,customer,"Refund for ORD-90938 still missing, it has been 22 days. You can reach me at cust5981@example.com.",refund_status,resolved,,2026-06-24T14:01:00Z,0
+MSG-000272,TCK-10094,2026-06-24T09:05:00Z,Web Form,CUST-5981,agent,I checked order ORD-90938. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-06-24T14:01:00Z,0
+MSG-000273,TCK-10094,2026-06-24T10:10:00Z,Web Form,CUST-5981,customer,OK. And what if it takes longer than that?,,resolved,,2026-06-24T14:01:00Z,0
+MSG-000274,TCK-10094,2026-06-24T20:02:00+07:00,Web Form,CUST-5981,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-24T14:01:00Z,0
+MSG-000275,TCK-10095,2026-09-11T06:45:00Z,email,CUST-5948,customer,Can I still return an item I received 38 days ago? Order ORD-85476.,Return Policy,resolved,,2026-09-11T09:29:00Z,14.9
+MSG-000276,TCK-10095,2026-09-11T08:53:00Z,email,CUST-5948,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-09-11T09:29:00Z,14.9
+MSG-000277,TCK-10096,2026-06-28T06:27:00Z,Email,CUST-2955,customer,I want to add one more item to ORD-96342. Is that possible?,Order Change,resolved,5,2026-06-28T12:16:00Z,13.0
+MSG-000278,TCK-10096,2026-06-28 14:22:00,Email,CUST-2955,agent,"Order ORD-96342 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,5,2026-06-28T12:16:00Z,13.0
+MSG-000279,TCK-10096,2026-06-28T16:05:00+07:00,Email,CUST-2955,customer,OK. And what if it takes longer than that?,,resolved,5,2026-06-28T12:16:00Z,13.0
+MSG-000280,TCK-10096,2026-06-28T11:28:00Z,Email,CUST-2955,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-06-28T12:16:00Z,13.0
+MSG-000281,TCK-10097,2026-08-01T02:57:00Z,CHAT,CUST-3844,customer,The laptop charger from ORD-54835 is broken. How do I make a warranty claim?,Warranty,resolved,,2026-08-01T09:25:00Z,17.3
+MSG-000282,TCK-10097,2026-08-01T10:52:00+07:00,CHAT,CUST-3844,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-08-01T09:25:00Z,17.3
+MSG-000283,TCK-10097,2026-08-01T12:37:00+07:00,CHAT,CUST-3844,customer,"Still nothing after a week, please check again.",,resolved,,2026-08-01T09:25:00Z,17.3
+MSG-000284,TCK-10097,2026-08-01 14:27:00,CHAT,CUST-3844,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-01T09:25:00Z,17.3
+MSG-000285,TCK-10098,2026-07-07T12:59:00+07:00,Web Form,CUST-6345,customer,"Please cancel order ORD-44801, I ordered the wrong size. My phone is 0948 750 246.",Order Change,resolved,,2026-07-07T07:52:00Z,21.4
+MSG-000286,TCK-10098,2026-07-07T13:24:00+07:00,Web Form,CUST-6345,agent,"Order ORD-44801 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-07-07T07:52:00Z,21.4
+MSG-000287,TCK-10099,2026-09-24 18:39:00,email,CUST-9866,customer,Order ORD-62239 was supposed to arrive yesterday. Any update?,shipping_delay,resolved,,2026-09-24T22:33:00Z,15.5
+MSG-000288,TCK-10099,2026-09-24T20:06:00+07:00,email,CUST-9866,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-62239 and the parcel is with the carrier.,,resolved,,2026-09-24T22:33:00Z,15.5
+MSG-000289,TCK-10099,2026-09-24T21:59:00Z,email,CUST-9866,customer,OK. And what if it takes longer than that?,,resolved,,2026-09-24T22:33:00Z,15.5
+MSG-000290,TCK-10099,2026-09-24T22:30:00Z,email,CUST-9866,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-24T22:33:00Z,15.5
+MSG-000291,TCK-10100,2026-09-20T07:13:00Z,Chat,CUST-8364,customer,I returned order ORD-61504 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,,2026-09-20T22:15:00Z,8.7
+MSG-000292,TCK-10100,2026-09-20T10:43:00Z,Chat,CUST-8364,agent,I checked order ORD-61504. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-09-20T22:15:00Z,8.7
+MSG-000293,TCK-10100,2026-11-02T10:00:00+07:00,Chat,CUST-8364,customer,OK. And what if it takes longer than that?,,resolved,,2026-09-20T22:15:00Z,8.7
+MSG-000294,TCK-10100,2026-09-21 04:44:00,Chat,CUST-8364,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-20T22:15:00Z,8.7
+MSG-000295,TCK-10101,2026-08-15T08:03:00+07:00,Email,CUST-7958,customer,I lost access to my old email. How can I update my account email?,Login,resolved,,2026-08-15T02:37:00Z,12.0
+MSG-000296,TCK-10101,2026-08-15 09:26:00,Email,CUST-7958,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,,2026-08-15T02:37:00Z,12.0
+MSG-000297,TCK-10102,2026-09-28T07:09:00Z,Chat,CUST-4116,customer,When will I get my refund for ORD-80682? The return was accepted on Monday. My phone is 0934 807 669.,,resolved,5,2026-09-28T15:20:00Z,27.1
+MSG-000298,TCK-10102,2026-09-28T08:17:00Z,Chat,CUST-4116,agent,I checked order ORD-80682. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-09-28T15:20:00Z,27.1
+MSG-000299,TCK-10102,2026-09-28T10:53:00Z,Chat,CUST-4116,customer,Can you confirm the address on the order?,,resolved,5,2026-09-28T15:20:00Z,27.1
+MSG-000300,TCK-10102,2026-09-28T15:19:00Z,Chat,CUST-4116,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-28T15:20:00Z,27.1
+MSG-000301,TCK-10103,2026-08-27T12:01:00Z,live_chat,CUST-4567,customer,I want to add one more item to ORD-76341. Is that possible?,Order Change,resolved,,2026-08-27T22:41:00Z,8.9
+MSG-000302,TCK-10103,2026-08-27T13:06:00Z,live_chat,CUST-4567,agent,"Order ORD-76341 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-08-27T22:41:00Z,8.9
+MSG-000303,TCK-10103,2026-08-27T21:18:00Z,live_chat,CUST-4567,customer,OK. And what if it takes longer than that?,,resolved,,2026-08-27T22:41:00Z,8.9
+MSG-000304,TCK-10103,2026-08-27T21:36:00Z,live_chat,CUST-4567,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-27T22:41:00Z,8.9
+MSG-000305,TCK-10104,2026-06-17T15:11:00+07:00,EMAIL,CUST-5550,customer,The jacket in order ORD-57943 is not what I expected. Is the return free?,Return Policy,resolved,,2026-06-17T19:41:00Z,7.2
+MSG-000306,TCK-10104,2026-06-17T08:42:00Z,EMAIL,CUST-5550,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-06-17T19:41:00Z,7.2
+MSG-000307,TCK-10104,2026-06-17 22:47:00,EMAIL,CUST-5550,customer,"Thank you, that helps.",,resolved,,2026-06-17T19:41:00Z,7.2
+MSG-000308,TCK-10104,2026-06-17T18:13:00Z,EMAIL,CUST-5550,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-17T19:41:00Z,7.2
+MSG-000309,TCK-10105,2026-09-23T02:17:00Z,live_chat,CUST-6545,customer,I returned order ORD-65959 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,5,2026-09-23T05:56:00Z,8.2
+MSG-000310,TCK-10105,2026-09-23T04:49:00Z,live_chat,CUST-6545,agent,I checked order ORD-65959. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-09-23T05:56:00Z,8.2
+MSG-000311,TCK-10106,2026-06-04T08:37:00Z,Chat,CUST-1608,customer,How long do I have to send back a product? I bought it last week (ORD-71172).,returns,escalated,,,11.8
+MSG-000312,TCK-10106,2026-06-04T10:45:00Z,Chat,CUST-1608,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,escalated,,,11.8
+MSG-000313,TCK-10107,2026-07-28 16:43:00,email,CUST-9179,customer,Can I still return an item I received 17 days ago? Order ORD-55769.,returns,resolved,5,2026-07-28T21:18:00Z,12.0
+MSG-000314,TCK-10107,2026-07-28T12:47:00Z,email,CUST-9179,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-07-28T21:18:00Z,12.0
+MSG-000315,TCK-10107,2026-07-28T23:01:00+07:00,email,CUST-9179,customer,Can you confirm the address on the order?,,resolved,5,2026-07-28T21:18:00Z,12.0
+MSG-000316,TCK-10107,2026-07-28T20:46:00Z,email,CUST-9179,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-07-28T21:18:00Z,12.0
+MSG-000317,TCK-10108,2026-07-07T09:24:00Z,Email,CUST-4074,customer,When will I get my refund for ORD-71203? The return was accepted on Monday.,refund-status,resolved,5,2026-07-07T10:05:00Z,29.6
+MSG-000318,TCK-10108,2026-07-07T09:53:00Z,Email,CUST-4074,agent,I checked order ORD-71203. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-07-07T10:05:00Z,29.6
+MSG-000319,TCK-10109,2026-06-28T02:40:00Z,email,CUST-9775,customer,I lost access to my old email. How can I update my account email?,Login,resolved,3,2026-06-28T14:00:00Z,16.5
+MSG-000320,TCK-10109,2026-06-28T05:58:00Z,email,CUST-9775,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,3,2026-06-28T14:00:00Z,16.5
+MSG-000321,TCK-10109,2026-06-28T09:33:00Z,email,CUST-9775,customer,"Thank you, that helps.",,resolved,3,2026-06-28T14:00:00Z,16.5
+MSG-000322,TCK-10109,2026-06-28T13:30:00Z,email,CUST-9775,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-06-28T14:00:00Z,16.5
+MSG-000323,TCK-10110,2026-08-03T12:41:00Z,E-mail,CUST-7126,customer,Can I change the delivery address for order ORD-50419? I just placed it.,order_change,resolved,5,2026-08-03T20:18:00Z,15.7
+MSG-000324,TCK-10110,2026-08-03T13:21:00Z,E-mail,CUST-7126,agent,"Order ORD-50419 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,5,2026-08-03T20:18:00Z,15.7
+MSG-000325,TCK-10110,2026-08-03T16:30:00Z,E-mail,CUST-7126,customer,Can you confirm the address on the order?,,resolved,5,2026-08-03T20:18:00Z,15.7
+MSG-000326,TCK-10110,2026-08-04T02:54:00+07:00,E-mail,CUST-7126,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-03T20:18:00Z,15.7
+MSG-000327,TCK-10111,2026-07-25T18:25:00+07:00,webform,CUST-2188,customer,I returned order ORD-71542 two weeks ago and I still have no refund. Where is my money?,refund_status,resolved,4,2026-07-26T02:56:00Z,15.9
+MSG-000328,TCK-10111,2026-07-25 21:02:00,webform,CUST-2188,agent,I checked order ORD-71542. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,4,2026-07-26T02:56:00Z,15.9
+MSG-000329,TCK-10111,2026-07-25T22:14:00Z,webform,CUST-2188,customer,"Still nothing after a week, please check again.",,resolved,4,2026-07-26T02:56:00Z,15.9
+MSG-000330,TCK-10111,2026-07-26T02:18:00Z,webform,CUST-2188,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-07-26T02:56:00Z,15.9
+MSG-000331,TCK-10112,2026-06-02T01:46:00Z,E-mail,CUST-8311,customer,Why is there a pending charge on my statement? I cancelled ORD-56625.,double_charge,resolved,,2026-06-02T04:01:00Z,19.4
+MSG-000332,TCK-10112,2026-06-02T10:22:00+07:00,E-mail,CUST-8311,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-06-02T04:01:00Z,19.4
+MSG-000333,TCK-10113,2026-09-22 12:18:00,Web Form,CUST-1237,customer,How long do I have to send back a product? I bought it last week (ORD-59480).,return_policy,resolved,3,2026-09-22T23:36:00Z,13.5
+MSG-000334,TCK-10113,2026-09-22 16:07:00,Web Form,CUST-1237,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,3,2026-09-22T23:36:00Z,13.5
+MSG-000335,TCK-10113,2026-09-23T00:19:00+07:00,Web Form,CUST-1237,customer,"Thank you, that helps.",,resolved,3,2026-09-22T23:36:00Z,13.5
+MSG-000336,TCK-10113,2026-09-23T04:54:00+07:00,Web Form,CUST-1237,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-09-22T23:36:00Z,13.5
+MSG-000337,TCK-10114,2026-06-06T05:18:00Z,chat,CUST-8994,customer,"Hi, I want to return the shoes from order ORD-90035. They do not fit. How do I do it?",return_policy,resolved,,2026-06-06T10:14:00Z,11.5
+MSG-000338,TCK-10114,2026-06-06T16:10:00+07:00,chat,CUST-8994,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-06-06T10:14:00Z,11.5
+MSG-000339,TCK-10115,2026-09-16T03:14:00Z,Chat,CUST-5294,customer,Can I still return an item I received 25 days ago? Order ORD-75840. You can reach me at cust5294@example.com.,Return Policy,resolved,3,2026-09-16T05:56:00Z,22.6
+MSG-000340,TCK-10115,2026-09-16T11:12:00+07:00,Chat,CUST-5294,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,3,2026-09-16T05:56:00Z,22.6
+MSG-000341,TCK-10116,2026-08-09T11:17:00+07:00,email,CUST-6551,customer,When will I get my refund for ORD-79292? The return was accepted on Monday.,REFUND,resolved,,2026-08-09T11:27:00Z,12.9
+MSG-000342,TCK-10116,2026-08-09T11:31:00+07:00,email,CUST-6551,agent,I checked order ORD-79292. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-09T11:27:00Z,12.9
+MSG-000343,TCK-10116,2026-08-09T05:25:00Z,email,CUST-6551,customer,OK. And what if it takes longer than that?,,resolved,,2026-08-09T11:27:00Z,12.9
+MSG-000344,TCK-10116,2026-08-09 16:41:00,email,CUST-6551,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-09T11:27:00Z,12.9
+MSG-000345,TCK-10117,2026-08-04T17:05:00+07:00,email,CUST-9890,customer,How long do I have to send back a product? I bought it last week (ORD-71740). My phone is 0940 608 899.,return_policy,resolved,5,2026-08-04T14:13:00Z,19.7
+MSG-000346,TCK-10117,2026-08-04T19:26:00+07:00,email,CUST-9890,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-08-04T14:13:00Z,19.7
+MSG-000347,TCK-10118,2026-07-05 13:59:00,email,CUST-5070,customer,How long does express delivery take to Hanoi? Asking about ORD-96118.,delivery time,resolved,,2026-07-05T10:02:00Z,13.1
+MSG-000348,TCK-10118,2026-07-05T07:08:00Z,email,CUST-5070,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-96118 and the parcel is with the carrier.,,resolved,,2026-07-05T10:02:00Z,13.1
+MSG-000349,TCK-10118,2026-07-05T08:51:00Z,email,CUST-5070,customer,OK. And what if it takes longer than that?,,resolved,,2026-07-05T10:02:00Z,13.1
+MSG-000350,TCK-10118,2026-07-05 16:38:00,email,CUST-5070,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-05T10:02:00Z,13.1
+MSG-000351,TCK-10119,2026-09-16T01:10:00Z,webform,CUST-6340,customer,How long does express delivery take to Hanoi? Asking about ORD-82434.,delivery_time,resolved,,2026-09-16T13:21:00Z,-3
+MSG-000352,TCK-10119,2026-09-16T09:59:00+07:00,webform,CUST-6340,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-82434 and the parcel is with the carrier.,,resolved,,2026-09-16T13:21:00Z,-3
+MSG-000353,TCK-10119,2026-09-16T10:16:00Z,webform,CUST-6340,customer,"Thank you, that helps.",,resolved,,2026-09-16T13:21:00Z,-3
+MSG-000354,TCK-10119,2026-09-16T11:26:00Z,webform,CUST-6340,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-16T13:21:00Z,-3
+MSG-000355,TCK-10120,2026-08-10T02:42:00Z,live_chat,CUST-5441,customer,"Mật khẩu của tôi không đặt lại được, giúp tôi với.",payment_issue,resolved,5,2026-08-10T10:35:00Z,17.7
+MSG-000356,TCK-10120,2026-08-10T04:48:00Z,live_chat,CUST-5441,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-08-10T10:35:00Z,17.7
+MSG-000357,TCK-10120,2026-08-10T08:10:00Z,live_chat,CUST-5441,customer,OK. And what if it takes longer than that?,,resolved,5,2026-08-10T10:35:00Z,17.7
+MSG-000358,TCK-10120,2026-08-10T09:26:00Z,live_chat,CUST-5441,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-10T10:35:00Z,17.7
+MSG-000359,TCK-10121,2026-06-24T05:51:00Z,Web Form,CUST-3621,customer,Can I change the delivery address for order ORD-59737? I just placed it.,cancel_order,resolved,4,2026-06-24T08:39:00Z,17.8
+MSG-000360,TCK-10121,2026-06-24T13:58:00+07:00,Web Form,CUST-3621,agent,"Order ORD-59737 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,4,2026-06-24T08:39:00Z,17.8
+MSG-000361,TCK-10122,2026-08-13T18:05:00+07:00,E-mail,CUST-7513,customer,"Hi, I want to return the shoes from order ORD-99859. They do not fit. How do I do it?",Return Policy,resolved,2,2026-08-13T20:27:00Z,14.4
+MSG-000362,TCK-10122,2026-08-13 21:07:00,E-mail,CUST-7513,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,2,2026-08-13T20:27:00Z,14.4
+MSG-000363,TCK-10122,2026-08-13T19:51:00Z,E-mail,CUST-7513,customer,"Got it, thanks!",,resolved,2,2026-08-13T20:27:00Z,14.4
+MSG-000364,TCK-10122,2026-08-13T20:13:00Z,E-mail,CUST-7513,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,2,2026-08-13T20:27:00Z,14.4
+MSG-000365,TCK-10123,2026-06-15T02:14:00Z,chat,CUST-4028,customer,My refund for order ORD-95799 is not on my card yet. How long does it take?,refund-status,pending,,,715
+MSG-000366,TCK-10123,2026-06-15T04:32:00Z,chat,CUST-4028,agent,I checked order ORD-95799. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,pending,,,715
+MSG-000367,TCK-10124,2026-09-04T18:05:00+07:00,E-mail,CUST-5945,customer,Can I still return an item I received 7 days ago? Order ORD-97043.,Return Policy,escalated,,,12.5
+MSG-000368,TCK-10124,2026-09-04T14:26:00Z,E-mail,CUST-5945,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,escalated,,,12.5
+MSG-000369,TCK-10125,2026-06-03T06:52:00Z,email,CUST-4813,customer,Do gift cards expire? I received one as a present.,Other,resolved,3,2026-06-03T13:10:00Z,6.1
+MSG-000370,TCK-10125,2026-06-03T07:36:00Z,email,CUST-4813,agent,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,resolved,3,2026-06-03T13:10:00Z,6.1
+MSG-000371,TCK-10125,2026-06-03T11:12:00Z,email,CUST-4813,customer,"Got it, thanks!",,resolved,3,2026-06-03T13:10:00Z,6.1
+MSG-000372,TCK-10125,2026-06-03T11:33:00Z,email,CUST-4813,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-06-03T13:10:00Z,6.1
+MSG-000373,TCK-10126,2026-07-29T01:23:00Z,E-mail,CUST-4778,customer,"Hi, I want to return the shoes from order ORD-61976. They do not fit. How do I do it?",returns,resolved,5,2026-07-29T04:46:00Z,6.4
+MSG-000374,TCK-10126,2026-07-29T04:31:00Z,E-mail,CUST-4778,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-07-29T04:46:00Z,6.4
+MSG-000375,TCK-10127,2026-09-22T09:40:00+07:00,live_chat,CUST-2577,customer,Why is there a pending charge on my statement? I cancelled ORD-40855.,payment_issue,resolved,,2026-09-22T03:53:00Z,12.5
+MSG-000376,TCK-10127,2026-09-22T10:21:00+07:00,live_chat,CUST-2577,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-09-22T03:53:00Z,12.5
+MSG-000377,TCK-10128,2026-08-13T01:31:00Z,E-mail,CUST-3540,customer,My parcel ORD-40328 has not moved for 4 days. Is something wrong? You can reach me at cust3540@example.com.,Delivery,resolved,,2026-08-13T04:25:00Z,14.1
+MSG-000378,TCK-10128,2026-08-13T02:44:00Z,E-mail,CUST-3540,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-40328 and the parcel is with the carrier.,,resolved,,2026-08-13T04:25:00Z,14.1
+MSG-000379,TCK-10129,2026-07-24T19:21:00+07:00,CHAT,CUST-8979,customer,"I was charged twice for order ORD-84036. Please check.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+-----Original message-----
+From: ShopNova <noreply@shopnova.example>
+Subject: Your order update
+Your parcel is on its way. Track it on the order page.
+",Payment,resolved,5,2026-07-24T13:39:00Z,12.3
+MSG-000380,TCK-10129,2026-07-24T12:58:00Z,CHAT,CUST-8979,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-07-24T13:39:00Z,12.3
+MSG-000381,TCK-10130,2026-08-27T08:47:00+07:00,Email,CUST-1956,customer,My refund for order ORD-79254 is not on my card yet. How long does it take?,REFUND,resolved,,2026-08-27T12:46:00Z,9.0
+MSG-000382,TCK-10130,2026-08-27T02:02:00Z,Email,CUST-1956,agent,I checked order ORD-79254. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-27T12:46:00Z,9.0
+MSG-000383,TCK-10130,2026-08-27T09:47:00Z,Email,CUST-1956,customer,OK. And what if it takes longer than that?,,resolved,,2026-08-27T12:46:00Z,9.0
+MSG-000384,TCK-10130,2026-08-27T12:10:00Z,Email,CUST-1956,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-27T12:46:00Z,9.0
+MSG-000385,TCK-10131,2026-08-13T07:53:00Z,E-mail,CUST-2232,customer,When will order ORD-57818 arrive? I live in Da Nang.,delivery time,escalated,,,7.5
+MSG-000386,TCK-10131,2026-08-13T10:37:00Z,E-mail,CUST-2232,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-57818 and the parcel is with the carrier.,,escalated,,,7.5
+MSG-000387,TCK-10132,2026-09-15T07:16:00Z,live_chat,CUST-8058,customer,When will order ORD-59053 arrive? I live in Da Nang.,see notes,resolved,2,2026-09-15T08:58:00Z,-12.5
+MSG-000388,TCK-10132,2026-09-15T08:57:00Z,live_chat,CUST-8058,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-59053 and the parcel is with the carrier.,,resolved,2,2026-09-15T08:58:00Z,-12.5
+MSG-000389,TCK-10133,2026-06-12T08:30:00Z,EMAIL,CUST-4650,customer,When will I get my refund for ORD-43580? The return was accepted on Monday.,REFUND,resolved,4,2026-06-12T13:56:00Z,14.5
+MSG-000390,TCK-10133,2026-06-12T19:04:00+07:00,EMAIL,CUST-4650,agent,I checked order ORD-43580. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,4,2026-06-12T13:56:00Z,14.5
+MSG-000391,TCK-10134,2026-07-14T14:11:00+07:00,Chat,CUST-1688,customer,I cannot log in to my account. The reset link does not work.,account_access,resolved,,2026-07-14T12:05:00Z,9.2
+MSG-000392,TCK-10134,2026-07-14T10:15:00Z,Chat,CUST-1688,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,,2026-07-14T12:05:00Z,9.2
+MSG-000393,TCK-10135,2026-07-11 18:48:00,Web Form,CUST-2254,customer,The jacket in order ORD-71842 is not what I expected. Is the return free?,returns,resolved,4,2026-07-11T13:11:00Z,15.8
+MSG-000394,TCK-10135,2026-07-11T19:28:00+07:00,Web Form,CUST-2254,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,4,2026-07-11T13:11:00Z,15.8
+MSG-000395,TCK-10136,2026-08-05 18:32:00,EMAIL,CUST-3949,customer,"Hi, I want to return the shoes from order ORD-52850. They do not fit. How do I do it?",Return Policy,resolved,5,2026-08-05T20:50:00Z,8.9
+MSG-000396,TCK-10136,2026-08-05T19:13:00+07:00,EMAIL,CUST-3949,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-08-05T20:50:00Z,8.9
+MSG-000397,TCK-10136,2026-08-05T19:24:00Z,EMAIL,CUST-3949,customer,OK. And what if it takes longer than that?,,resolved,5,2026-08-05T20:50:00Z,8.9
+MSG-000398,TCK-10136,2026-08-05T20:15:00Z,EMAIL,CUST-3949,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-05T20:50:00Z,8.9
+MSG-000399,TCK-10137,2026-08-29T19:55:00+07:00,live_chat,CUST-6202,customer,The laptop charger from ORD-94898 is broken. How do I make a warranty claim?,Warranty,resolved,5,2026-08-29T21:04:00Z,7.6
+MSG-000400,TCK-10137,2026-08-29T15:08:00Z,live_chat,CUST-6202,agent,   ,,resolved,5,2026-08-29T21:04:00Z,7.6
+MSG-000401,TCK-10137,2026-08-29T17:45:00Z,live_chat,CUST-6202,customer,OK. And what if it takes longer than that?,,resolved,5,2026-08-29T21:04:00Z,7.6
+MSG-000402,TCK-10137,2026-08-30T02:42:00+07:00,live_chat,CUST-6202,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-29T21:04:00Z,7.6
+MSG-000403,TCK-10138,2026-08-13 14:29:00,webform,CUST-7251,customer,My refund for order ORD-87478 is not on my card yet. How long does it take?,REFUND,resolved,4,2026-08-13T12:15:00Z,5.1
+MSG-000404,TCK-10138,2026-08-13 17:44:00,webform,CUST-7251,agent,I checked order ORD-87478. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,4,2026-08-13T12:15:00Z,5.1
+MSG-000405,TCK-10139,2026-07-10T10:00:00+07:00,CHAT,CUST-4922,customer,When will order ORD-70454 arrive? I live in Da Nang.,delivery_time,resolved,5,2026-07-10T05:04:00Z,10.2
+MSG-000406,TCK-10139,2026-07-10T04:54:00Z,CHAT,CUST-4922,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-70454 and the parcel is with the carrier.,,resolved,5,2026-07-10T05:04:00Z,10.2
+MSG-000407,TCK-10140,2026-06-04 08:13:00,Web Form,CUST-3426,customer,Do gift cards expire? I received one as a present. You can reach me at cust3426@example.com.,other,resolved,5,2026-06-04T14:20:00Z,7.6
+MSG-000408,TCK-10140,2026-06-04 09:37:00,Web Form,CUST-3426,agent,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,resolved,5,2026-06-04T14:20:00Z,7.6
+MSG-000409,TCK-10140,2026-06-04T11:07:00Z,Web Form,CUST-3426,customer,"Got it, thanks!",,resolved,5,2026-06-04T14:20:00Z,7.6
+MSG-000410,TCK-10140,2026-06-04T13:43:00Z,Web Form,CUST-3426,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-06-04T14:20:00Z,7.6
+MSG-000411,TCK-10141,2026-08-14T14:35:00+07:00,Chat,CUST-7514,customer,Screen flickers on the tablet I bought (ORD-57671). What can I do?,warranty_claim,resolved,,2026-08-14T15:26:00Z,20.2
+MSG-000412,TCK-10141,2026-08-14T08:19:00Z,Chat,CUST-7514,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-08-14T15:26:00Z,20.2
+MSG-000413,TCK-10141,2026-08-14T20:35:00+07:00,Chat,CUST-7514,customer,"Thank you, that helps.",,resolved,,2026-08-14T15:26:00Z,20.2
+MSG-000414,TCK-10141,2026-08-14T15:15:00Z,Chat,CUST-7514,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-14T15:26:00Z,20.2
+MSG-000415,TCK-10142,2026-07-13 17:04:00,CHAT,CUST-3546,customer,I returned order ORD-78015 two weeks ago and I still have no refund. Where is my money?,Refund,resolved,,2026-07-13T14:06:00Z,6.9
+MSG-000416,TCK-10142,2026-07-13T13:04:00Z,CHAT,CUST-3546,agent,I checked order ORD-78015. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-07-13T14:06:00Z,6.9
+MSG-000417,TCK-10143,2026-08-27T17:49:00+07:00,CHAT,CUST-5228,customer,How long do I have to send back a product? I bought it last week (ORD-84356).,returns,resolved,,2026-08-27T13:54:00Z,20.0
+MSG-000418,TCK-10143,2026-08-27T13:06:00Z,CHAT,CUST-5228,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-08-27T13:54:00Z,20.0
+MSG-000419,TCK-10144,2026-06-30 08:45:00,chat,CUST-5604,customer,"Please cancel order ORD-70551, I ordered the wrong size.",cancel_order,resolved,4,2026-06-30T03:55:00Z,13.8
+MSG-000420,TCK-10144,2026-06-30T10:15:00+07:00,chat,CUST-5604,agent,"Order ORD-70551 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,4,2026-06-30T03:55:00Z,13.8
+MSG-000421,TCK-10145,2026-07-15T09:31:00Z,Chat,CUST-5097,customer,My parcel ORD-53017 has not moved for 4 days. Is something wrong?,shipping_delay,resolved,,2026-07-15T13:12:00Z,13.1
+MSG-000422,TCK-10145,2026-07-15T12:22:00Z,Chat,CUST-5097,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-53017 and the parcel is with the carrier.,,resolved,,2026-07-15T13:12:00Z,13.1
+MSG-000423,TCK-10146,2026-09-13T02:58:00Z,webform,CUST-5231,customer,Payment failed but money left my account. Order ORD-93644.,double_charge,resolved,5,2026-09-13T06:09:00Z,4.7
+MSG-000424,TCK-10146,2026-09-13T13:04:00+07:00,webform,CUST-5231,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-09-13T06:09:00Z,4.7
+MSG-000425,TCK-10147,2026-07-23T18:33:00+07:00,email,CUST-4733,customer,The jacket in order ORD-72816 is not what I expected. Is the return free?,return_policy,resolved,,2026-07-23T15:44:00Z,14.5
+MSG-000426,TCK-10147,2026-07-23T21:15:00+07:00,email,CUST-4733,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-07-23T15:44:00Z,14.5
+MSG-000427,TCK-10148,2026-08-07T08:09:00Z,EMAIL,CUST-1579,customer,Why is there a pending charge on my statement? I cancelled ORD-70727.,Payment,resolved,4,2026-08-07T15:29:00Z,12.7
+MSG-000428,TCK-10148,2026-08-07T11:29:00Z,EMAIL,CUST-1579,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,4,2026-08-07T15:29:00Z,12.7
+MSG-000429,TCK-10148,2026-08-07T21:06:00+07:00,EMAIL,CUST-1579,customer,OK. And what if it takes longer than that?,,resolved,4,2026-08-07T15:29:00Z,12.7
+MSG-000430,TCK-10148,2026-08-07T22:14:00+07:00,EMAIL,CUST-1579,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-08-07T15:29:00Z,12.7
+MSG-000431,TCK-10149,2026-09-17T14:04:00+07:00,live_chat,CUST-5315,customer,I was charged twice for order ORD-71756. Please check.,double_charge,pending,,,15.2
+MSG-000432,TCK-10149,2026-09-17T07:09:00Z,live_chat,CUST-5315,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,pending,,,15.2
+MSG-000433,TCK-10150,2026-06-28T01:26:00Z,Web Form,CUST-1307,customer,How long does express delivery take to Hanoi? Asking about ORD-58670.,Delivery,resolved,3,2026-06-28T13:01:00Z,11.3
+MSG-000434,TCK-10150,2026-06-28T02:08:00Z,Web Form,CUST-1307,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-58670 and the parcel is with the carrier.,,resolved,3,2026-06-28T13:01:00Z,11.3
+MSG-000435,TCK-10150,2026-06-28T10:31:00Z,Web Form,CUST-1307,customer,"Still nothing after a week, please check again.",,resolved,3,2026-06-28T13:01:00Z,11.3
+MSG-000436,TCK-10150,2026-06-28T12:06:00Z,Web Form,CUST-1307,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-06-28T13:01:00Z,11.3
+MSG-000437,TCK-10151,2026-09-05T12:42:00+07:00,chat,CUST-7959,customer,Why is there a pending charge on my statement? I cancelled ORD-56555.,Payment,resolved,,2026-09-05T18:59:00Z,9.6
+MSG-000438,TCK-10151,2026-09-05 14:26:00,chat,CUST-7959,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-09-05T18:59:00Z,9.6
+MSG-000439,TCK-10151,2026-09-05T16:08:00Z,chat,CUST-7959,customer,"Got it, thanks!",,resolved,,2026-09-05T18:59:00Z,9.6
+MSG-000440,TCK-10151,2026-09-06 00:03:00,chat,CUST-7959,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-05T18:59:00Z,9.6
+MSG-000441,TCK-10152,2026-08-28T15:19:00+07:00,Email,CUST-9774,customer,When will I get my refund for ORD-41691? The return was accepted on Monday.,refund-status,resolved,,2026-08-28T13:10:00Z,28.9
+MSG-000442,TCK-10152,2026-08-28T10:11:00Z,Email,CUST-9774,agent,I checked order ORD-41691. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-28T13:10:00Z,28.9
+MSG-000443,TCK-10152,2026-08-28T10:24:00Z,Email,CUST-9774,customer,"Got it, thanks!",,resolved,,2026-08-28T13:10:00Z,28.9
+MSG-000444,TCK-10152,2026-08-28T12:41:00Z,Email,CUST-9774,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-28T13:10:00Z,28.9
+MSG-000445,TCK-10153,2026-06-01T02:57:00Z,chat,CUST-5939,customer,I lost my gift card code. Can you send it again?,,resolved,4,2026-06-01T06:21:00Z,10.4
+MSG-000446,TCK-10153,2026-06-01T13:02:00+07:00,chat,CUST-5939,agent,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,resolved,4,2026-06-01T06:21:00Z,10.4
+MSG-000447,TCK-10154,2026-09-24T04:44:00Z,E-mail,CUST-8797,customer,How long does express delivery take to Hanoi? Asking about ORD-72008.,,resolved,3,2026-09-24T17:30:00Z,8.6
+MSG-000448,TCK-10154,2026-09-24T08:33:00Z,E-mail,CUST-8797,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-72008 and the parcel is with the carrier.,,resolved,3,2026-09-24T17:30:00Z,8.6
+MSG-000449,TCK-10154,2026-09-24T14:14:00Z,E-mail,CUST-8797,customer,OK. And what if it takes longer than that?,,resolved,3,2026-09-24T17:30:00Z,8.6
+MSG-000450,TCK-10154,2026-09-24T23:15:00+07:00,E-mail,CUST-8797,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-09-24T17:30:00Z,8.6
+MSG-000451,TCK-10155,2026-08-27T05:38:00Z,CHAT,CUST-1731,customer,I returned order ORD-68930 two weeks ago and I still have no refund. Where is my money?,refund_status,resolved,4,2026-08-27T08:57:00Z,980
+MSG-000452,TCK-10155,2026-08-27T14:02:00+07:00,CHAT,CUST-1731,agent,I checked order ORD-68930. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,4,2026-08-27T08:57:00Z,980
+MSG-000453,TCK-10156,2026-06-02 15:35:00,live_chat,CUST-7126,customer,The laptop charger from ORD-68094 is broken. How do I make a warranty claim?,,resolved,,2026-06-02T11:07:00Z,6.1
+MSG-000454,TCK-10156,2026-06-02T09:48:00Z,live_chat,CUST-7126,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-06-02T11:07:00Z,6.1
+MSG-000455,TCK-10157,2026-07-18 12:44:00,live_chat,CUST-7831,customer,The laptop charger from ORD-49138 is broken. How do I make a warranty claim?,warranty_claim,resolved,,2026-07-18T18:25:00Z,0
+MSG-000456,TCK-10157,2026-07-18T09:13:00Z,live_chat,CUST-7831,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-07-18T18:25:00Z,0
+MSG-000457,TCK-10157,2026-07-18T16:43:00Z,live_chat,CUST-7831,customer,"Thank you, that helps.",,resolved,,2026-07-18T18:25:00Z,0
+MSG-000458,TCK-10157,2026-07-19 01:14:00,live_chat,CUST-7831,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-18T18:25:00Z,0
+MSG-000459,TCK-10158,2026-08-19T06:11:00Z,live_chat,CUST-6325,customer,When will I get my refund for ORD-89395? The return was accepted on Monday.,REFUND,resolved,,2026-08-19T19:02:00Z,8.0
+MSG-000460,TCK-10158,2026-08-19T14:20:00+07:00,live_chat,CUST-6325,agent,I checked order ORD-89395. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-08-19T19:02:00Z,8.0
+MSG-000461,TCK-10158,2026-08-19T16:12:00Z,live_chat,CUST-6325,customer,"Got it, thanks!",,resolved,,2026-08-19T19:02:00Z,8.0
+MSG-000462,TCK-10158,2026-08-19T18:29:00Z,live_chat,CUST-6325,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-19T19:02:00Z,8.0
+MSG-000463,TCK-10159,2026-09-14 14:31:00,web_form,CUST-1001,customer,How long does express delivery take to Hanoi? Asking about ORD-50062. You can reach me at cust1001@example.com.,delivery time,resolved,3,2026-09-14T10:10:00Z,18.6
+MSG-000464,TCK-10159,2026-09-14T15:39:00+07:00,web_form,CUST-1001,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-50062 and the parcel is with the carrier.,,resolved,3,2026-09-14T10:10:00Z,18.6
+MSG-000465,TCK-10160,2026-07-29T11:50:00Z,chat,CUST-6094,customer,Can I still return an item I received 6 days ago? Order ORD-65760.,Return Policy,resolved,5,2026-07-29T15:56:00Z,5.9
+MSG-000466,TCK-10160,2026-07-29T15:22:00Z,chat,CUST-6094,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-07-29T15:56:00Z,5.9
+MSG-000467,TCK-10161,2026-06-17T16:39:00+07:00,live_chat,CUST-5552,customer,I returned order ORD-62813 two weeks ago and I still have no refund. Where is my money?,Refund,resolved,5,2026-06-17T16:17:00Z,10.4
+MSG-000468,TCK-10161,2026-06-17 17:40:00,live_chat,CUST-5552,agent,I checked order ORD-62813. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-06-17T16:17:00Z,10.4
+MSG-000469,TCK-10161,2026-06-17T12:07:00Z,live_chat,CUST-5552,customer,"Still nothing after a week, please check again.",,resolved,5,2026-06-17T16:17:00Z,10.4
+MSG-000470,TCK-10161,2026-06-17T15:47:00Z,live_chat,CUST-5552,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-06-17T16:17:00Z,10.4
+MSG-000471,TCK-10162,2026-06-26T04:27:00Z,chat,CUST-5837,customer,I cannot log in to my account. The reset link does not work.,password_reset,resolved,,2026-06-26T04:51:00Z,10.8
+MSG-000472,TCK-10162,2026-06-26T11:35:00+07:00,chat,CUST-5837,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,,2026-06-26T04:51:00Z,10.8
+MSG-000473,TCK-10163,2026-09-25T10:54:00+07:00,web_form,CUST-1030,customer,Order ORD-72025 was supposed to arrive yesterday. Any update?,delivery_time,resolved,,2026-09-25T09:10:00Z,6.9
+MSG-000474,TCK-10163,2026-09-25T14:19:00+07:00,web_form,CUST-1030,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-72025 and the parcel is with the carrier.,,resolved,,2026-09-25T09:10:00Z,6.9
+MSG-000475,TCK-10164,2026-09-10T04:24:00Z,live_chat,CUST-6065,customer,"Please cancel order ORD-62050, I ordered the wrong size.",Order Change,resolved,2,2026-09-10T09:31:00Z,15.9
+MSG-000476,TCK-10164,2026-09-10T15:09:00+07:00,live_chat,CUST-6065,agent,"Order ORD-62050 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,2,2026-09-10T09:31:00Z,15.9
+MSG-000477,TCK-10165,2026-09-10T03:35:00Z,Email,CUST-2878,customer,I returned order ORD-49387 two weeks ago and I still have no refund. Where is my money?,Refund,resolved,,2026-09-10T05:59:00Z,27.2
+MSG-000478,TCK-10165,2026-09-10T04:18:00Z,Email,CUST-2878,agent,I checked order ORD-49387. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-09-10T05:59:00Z,27.2
+MSG-000479,TCK-10166,2026-08-09T18:38:00+07:00,email,CUST-6137,customer,I cannot log in to my account. The reset link does not work.,account_access,resolved,,2026-08-09T22:46:00Z,14.9
+MSG-000480,,2026-08-09T12:39:00Z,email,CUST-6137,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,,2026-08-09T22:46:00Z,14.9
+MSG-000481,TCK-10166,2026-08-09T18:02:00Z,email,CUST-6137,customer,Can you confirm the address on the order?,,resolved,,2026-08-09T22:46:00Z,14.9
+MSG-000482,TCK-10166,2026-08-09T21:22:00Z,email,CUST-6137,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-09T22:46:00Z,14.9
+MSG-000483,TCK-10167,2026-08-06 16:54:00,chat,CUST-2324,customer,"Refund for ORD-85202 still missing, it has been 12 days. My phone is 0927 737 824.",Refund,escalated,,,10.0
+MSG-000484,TCK-10167,2026-08-06T13:27:00Z,chat,CUST-2324,agent,I checked order ORD-85202. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,escalated,,,10.0
+MSG-000485,TCK-10167,2026-08-07T00:27:00+07:00,chat,CUST-2324,customer,OK. And what if it takes longer than that?,,escalated,,,10.0
+MSG-000486,TCK-10167,2026-08-06T20:39:00Z,chat,CUST-2324,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,escalated,,,10.0
+MSG-000487,TCK-10168,2026-09-06T08:53:00Z,E-mail,CUST-4202,customer,My parcel ORD-53389 has not moved for 4 days. Is something wrong?,shipping_delay,resolved,5,2026-09-06T19:24:00Z,7.9
+MSG-000488,TCK-10168,2026-09-06T19:37:00+07:00,E-mail,CUST-4202,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-53389 and the parcel is with the carrier.,,resolved,5,2026-09-06T19:24:00Z,7.9
+MSG-000489,TCK-10168,2026-09-06T17:04:00Z,E-mail,CUST-4202,customer,"Still nothing after a week, please check again.",,resolved,5,2026-09-06T19:24:00Z,7.9
+MSG-000490,TCK-10168,2026-09-07 01:18:00,E-mail,CUST-4202,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-06T19:24:00Z,7.9
+MSG-000491,TCK-10169,2026-08-10 17:43:00,live_chat,CUST-4006,customer,My headphones from order ORD-60332 stopped working after 3 months. Is this covered?,warranty_claim,resolved,5,2026-08-10T19:06:00Z,10.1
+MSG-000492,TCK-10169,2026-08-10T10:56:00Z,live_chat,CUST-4006,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,5,2026-08-10T19:06:00Z,10.1
+MSG-000493,TCK-10169,2026-08-10T13:43:00Z,live_chat,CUST-4006,customer,"Still nothing after a week, please check again.",,resolved,5,2026-08-10T19:06:00Z,10.1
+MSG-000494,TCK-10169,2026-08-10T17:54:00Z,live_chat,CUST-4006,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-10T19:06:00Z,10.1
+MSG-000495,TCK-10170,2026-06-22 09:32:00,Chat,CUST-1224,customer,I was charged twice for order ORD-94123. Please check. You can reach me at cust1224@example.com.,,resolved,4,2026-06-22T14:25:00Z,12.8
+MSG-000496,TCK-10170,2026-06-22T11:32:00+07:00,Chat,CUST-1224,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,4,2026-06-22T14:25:00Z,12.8
+MSG-000497,TCK-10170,2026-06-22T10:24:00Z,Chat,CUST-1224,customer,"Still nothing after a week, please check again.",,resolved,4,2026-06-22T14:25:00Z,12.8
+MSG-000498,TCK-10170,2026-06-22T12:58:00Z,Chat,CUST-1224,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-06-22T14:25:00Z,12.8
+MSG-000499,TCK-10171,2026-09-21T01:46:00Z,chat,CUST-1205,customer,"Refund for ORD-60403 still missing, it has been 39 days.",refund_status,escalated,,,12.2
+MSG-000500,TCK-10171,2026-09-21T03:06:00Z,chat,CUST-1205,agent,I checked order ORD-60403. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,escalated,,,12.2
+MSG-000501,,2026-07-17 17:48:00,email,CUST-2317,customer,How long does express delivery take to Hanoi? Asking about ORD-72803.,delivery time,resolved,5,2026-07-17T23:03:00Z,10.4
+MSG-000502,TCK-10172,2026-07-17 18:41:00,email,CUST-2317,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-72803 and the parcel is with the carrier.,,resolved,5,2026-07-17T23:03:00Z,10.4
+MSG-000503,TCK-10172,2026-07-17T17:52:00Z,email,CUST-2317,customer,Can you confirm the address on the order?,,resolved,5,2026-07-17T23:03:00Z,10.4
+MSG-000504,TCK-10172,2026-07-17T21:18:00Z,email,CUST-2317,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-07-17T23:03:00Z,10.4
+MSG-000505,TCK-10173,2026-09-16T09:30:00Z,E-mail,CUST-8766,customer,I lost my gift card code. Can you send it again?,Other,resolved,5,2026-09-16T17:30:00Z,4.5
+MSG-000506,TCK-10173,2026-09-16T19:16:00+07:00,E-mail,CUST-8766,agent,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,resolved,5,2026-09-16T17:30:00Z,4.5
+MSG-000507,TCK-10173,2026-09-16T15:38:00Z,E-mail,CUST-8766,customer,"Got it, thanks!",,resolved,5,2026-09-16T17:30:00Z,4.5
+MSG-000508,TCK-10173,2026-09-16 23:50:00,E-mail,CUST-8766,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-16T17:30:00Z,4.5
+MSG-000509,TCK-10174,2026-08-27T04:03:00Z,E-mail,CUST-6873,customer,Can I still return an item I received 24 days ago? Order ORD-64126. My phone is 0986 891 886.,returns,resolved,,2026-08-27T05:44:00Z,20.2
+MSG-000510,TCK-10174,2026-08-27T04:22:00Z,E-mail,CUST-6873,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-08-27T05:44:00Z,20.2
+MSG-000511,TCK-10175,2026-08-02T05:52:00Z,CHAT,CUST-6247,customer,Order ORD-44593 was supposed to arrive yesterday. Any update?,delivery_time,pending,,,5.9
+MSG-000512,TCK-10175,2026-08-02T14:03:00+07:00,CHAT,CUST-6247,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-44593 and the parcel is with the carrier.,,pending,,,5.9
+MSG-000513,TCK-10175,2026-08-02T19:23:00+07:00,CHAT,CUST-6247,customer,OK. And what if it takes longer than that?,,pending,,,5.9
+MSG-000514,TCK-10175,2026-08-02T15:23:00Z,CHAT,CUST-6247,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,5.9
+MSG-000515,TCK-10176,2026-06-16T08:06:00Z,chat,CUST-4522,customer,"Please cancel order ORD-75580, I ordered the wrong size.",cancel_order,resolved,,2026-06-16T13:07:00Z,13.7
+MSG-000516,TCK-10176,2026-06-16T18:57:00+07:00,chat,CUST-4522,agent,"Order ORD-75580 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-06-16T13:07:00Z,13.7
+MSG-000517,TCK-10177,2026-07-27T04:06:00Z,Web Form,CUST-6687,customer,Payment failed but money left my account. Order ORD-81107.,,pending,,,26.4
+MSG-000518,TCK-10177,2026-07-27T05:36:00Z,Web Form,CUST-6687,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,pending,,,26.4
+MSG-000519,TCK-10178,2026-07-06T18:16:00+07:00,web_form,CUST-5150,customer,"I was charged twice for ORD-64863. My card is 4111 1111 1111 1111, please refund the second payment.",Refund,resolved,2,2026-07-07T01:07:00Z,33.8
+MSG-000520,TCK-10178,2026-07-06T13:35:00Z,web_form,CUST-5150,agent,I checked order ORD-64863. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,2,2026-07-07T01:07:00Z,33.8
+MSG-000521,TCK-10178,2026-07-07 06:27:00,web_form,CUST-5150,customer,OK. And what if it takes longer than that?,,resolved,2,2026-07-07T01:07:00Z,33.8
+MSG-000522,TCK-10178,2026-07-07T00:47:00Z,web_form,CUST-5150,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,2,2026-07-07T01:07:00Z,33.8
+MSG-000523,TCK-10179,2026-09-07T11:56:00+07:00,live_chat,CUST-1431,customer,I was charged twice for order ORD-62850. Please check.,payment_issue,resolved,5,2026-09-07T12:38:00Z,9.2
+MSG-000524,TCK-10179,2026-09-07T05:32:00Z,live_chat,CUST-1431,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,5,2026-09-07T12:38:00Z,9.2
+MSG-000525,TCK-10179,2026-09-07 18:47:00,live_chat,CUST-1431,customer,"Got it, thanks!",,resolved,5,2026-09-07T12:38:00Z,9.2
+MSG-000526,TCK-10179,2026-09-07T12:15:00Z,live_chat,CUST-1431,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-07T12:38:00Z,9.2
+MSG-000527,TCK-10180,2026-08-14T08:40:00Z,E-mail,CUST-6629,customer,"I was charged twice for ORD-65032. My card is 4111 1111 1111 1111, please refund the second payment.",Warranty,resolved,5,2026-08-14T15:57:00Z,7.5
+MSG-000528,TCK-10180,2026-08-14T12:26:00Z,E-mail,CUST-6629,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,5,2026-08-14T15:57:00Z,7.5
+MSG-000529,TCK-10180,2026-08-14T12:58:00Z,E-mail,CUST-6629,customer,"Thank you, that helps.",,resolved,5,2026-08-14T15:57:00Z,7.5
+MSG-000530,TCK-10180,2026-08-14T14:09:00Z,E-mail,CUST-6629,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-14T15:57:00Z,7.5
+MSG-000531,TCK-10181,2026-09-04T11:23:00+07:00,EMAIL,CUST-6239,customer,How long does express delivery take to Hanoi? Asking about ORD-97534. My phone is 0977 457 298.,delivery time,resolved,,2026-09-04T08:36:00Z,12.0
+MSG-000532,TCK-10181,2026-09-04T07:03:00Z,EMAIL,CUST-6239,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-97534 and the parcel is with the carrier.,,resolved,,2026-09-04T08:36:00Z,12.0
+MSG-000533,TCK-10182,2026-06-09T12:59:00Z,Chat,CUST-8631,customer,Payment failed but money left my account. Order ORD-51760.,Payment,resolved,1,2026-06-09T16:25:00Z,11.2
+MSG-000534,TCK-10182,2026-06-09 23:10:00,Chat,CUST-8631,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,1,2026-06-09T16:25:00Z,11.2
+MSG-000535,TCK-10183,2026-09-26T04:23:00Z,email,CUST-5632,customer,When will I get my refund for ORD-56263? The return was accepted on Monday.,,pending,1,,24.0
+MSG-000536,,2026-09-26T08:06:00Z,email,CUST-5632,agent,I checked order ORD-56263. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,pending,1,,24.0
+MSG-000537,TCK-10184,2026-06-03T08:35:00Z,Email,CUST-8781,customer,"Hi, I want to return the shoes from order ORD-76184. They do not fit. How do I do it? You can reach me at cust8781@example.com.",,pending,,,6.6
+MSG-000538,TCK-10184,2026-06-03T12:29:00Z,Email,CUST-8781,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,pending,,,6.6
+MSG-000539,TCK-10185,2026-09-23T14:13:00+07:00,EMAIL,CUST-9146,customer,"Hi, I want to return the shoes from order ORD-57589. They do not fit. How do I do it? My phone is 0916 302 417.",Return Policy,resolved,5,2026-09-23T08:45:00Z,13.0
+MSG-000540,TCK-10185,2026-09-23 14:51:00,EMAIL,CUST-9146,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-09-23T08:45:00Z,13.0
+MSG-000541,TCK-10186,2026-06-13T09:02:00Z,CHAT,CUST-1440,customer,The laptop charger from ORD-60922 is broken. How do I make a warranty claim?,,resolved,5,2026-06-13T15:53:00Z,18.8
+MSG-000542,TCK-10186,2026-06-13T11:28:00Z,CHAT,CUST-1440,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,5,2026-06-13T15:53:00Z,18.8
+MSG-000543,TCK-10186,2026-06-13T14:35:00Z,CHAT,CUST-1440,customer,"Still nothing after a week, please check again.",,resolved,5,2026-06-13T15:53:00Z,18.8
+MSG-000544,TCK-10186,2026-06-13T15:47:00Z,CHAT,CUST-1440,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-06-13T15:53:00Z,18.8
+MSG-000545,TCK-10187,2026-06-28T10:51:00Z,EMAIL,CUST-9058,customer,Payment failed but money left my account. Order ORD-97137. You can reach me at cust9058@example.com.,payment_issue,resolved,,2026-06-28T21:54:00Z,6.4
+MSG-000546,TCK-10187,2026-06-28T18:42:00+07:00,EMAIL,CUST-9058,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-06-28T21:54:00Z,6.4
+MSG-000547,TCK-10187,2026-06-28T19:07:00Z,EMAIL,CUST-9058,customer,"Got it, thanks!",,resolved,,2026-06-28T21:54:00Z,6.4
+MSG-000548,TCK-10187,2026-06-29T03:02:00+07:00,EMAIL,CUST-9058,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-28T21:54:00Z,6.4
+MSG-000549,TCK-10188,2026-07-16 14:02:00,Email,CUST-9220,customer,I returned order ORD-65415 two weeks ago and I still have no refund. Where is my money?,refund-status,resolved,4,2026-07-16T07:50:00Z,16.5
+MSG-000550,TCK-10188,2026-07-16 14:31:00,Email,CUST-9220,agent,I checked order ORD-65415. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,4,2026-07-16T07:50:00Z,16.5
+MSG-000551,TCK-10189,2026-09-01T13:20:00+07:00,Chat,CUST-3791,customer,"Please cancel order ORD-94166, I ordered the wrong size.",Order Change,resolved,,2026-09-01T18:52:00Z,13.7
+MSG-000552,TCK-10189,2026-09-01T06:34:00Z,Chat,CUST-3791,agent,"Order ORD-94166 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-09-01T18:52:00Z,13.7
+MSG-000553,TCK-10189,2026-09-01T21:12:00+07:00,Chat,CUST-3791,customer,Can you confirm the address on the order?,,resolved,,2026-09-01T18:52:00Z,13.7
+MSG-000554,TCK-10189,2026-09-01T17:52:00Z,Chat,CUST-3791,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-01T18:52:00Z,13.7
+MSG-000555,TCK-10190,2026-06-13T09:28:00Z,email,CUST-7558,customer,When will order ORD-83074 arrive? I live in Da Nang.,shipping_delay,resolved,3,2026-06-13T10:59:00Z,9.9
+MSG-000556,TCK-10190,2026-06-13T17:10:00+07:00,email,CUST-7558,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-83074 and the parcel is with the carrier.,,resolved,3,2026-06-13T10:59:00Z,9.9
+MSG-000557,TCK-10191,2026-07-13T04:59:00Z,CHAT,CUST-9865,customer,"Refund for ORD-54721 still missing, it has been 35 days.",Refund,resolved,,2026-07-13T14:11:00Z,13.6
+MSG-000558,TCK-10191,2026-07-13T06:09:00Z,CHAT,CUST-9865,agent,I checked order ORD-54721. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-07-13T14:11:00Z,13.6
+MSG-000559,TCK-10191,2026-07-13T13:03:00Z,CHAT,CUST-9865,customer,OK. And what if it takes longer than that?,,resolved,,2026-07-13T14:11:00Z,13.6
+MSG-000560,TCK-10191,2026-07-13T13:27:00Z,CHAT,CUST-9865,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-07-13T14:11:00Z,13.6
+MSG-000561,TCK-10192,2026-08-21T02:15:00Z,Chat,CUST-6788,customer,My parcel ORD-51174 has not moved for 4 days. Is something wrong?,delivery_time,pending,,,19.2
+MSG-000562,TCK-10192,2026-08-21T11:41:00+07:00,Chat,CUST-6788,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-51174 and the parcel is with the carrier.,,pending,,,19.2
+MSG-000563,TCK-10192,2026-08-21T15:52:00+07:00,Chat,CUST-6788,customer,OK. And what if it takes longer than that?,,pending,,,19.2
+MSG-000564,TCK-10192,2026-08-21T10:56:00Z,Chat,CUST-6788,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,19.2
+MSG-000565,,2026-09-18T05:29:00Z,webform,CUST-1703,customer,Why is there a pending charge on my statement? I cancelled ORD-91629.,double_charge,resolved,1,2026-09-19T01:00:00Z,20.1
+MSG-000566,TCK-10193,2026-09-18T16:27:00+07:00,webform,CUST-1703,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,1,2026-09-19T01:00:00Z,20.1
+MSG-000567,TCK-10193,2026-09-18T19:00:00Z,webform,CUST-1703,customer,"Still nothing after a week, please check again.",,resolved,1,2026-09-19T01:00:00Z,20.1
+MSG-000568,TCK-10193,2026-09-18T23:25:00Z,webform,CUST-1703,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,1,2026-09-19T01:00:00Z,20.1
+MSG-000569,TCK-10194,2026-06-04T02:10:00Z,live_chat,CUST-5538,customer,How long does express delivery take to Hanoi? Asking about ORD-65661.,misc??,resolved,1,2026-06-04T02:39:00Z,17.5
+MSG-000570,TCK-10194,2026-06-04T09:19:00+07:00,live_chat,CUST-5538,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-65661 and the parcel is with the carrier.,,resolved,1,2026-06-04T02:39:00Z,17.5
+MSG-000571,TCK-10195,2026-09-02T10:03:00+07:00,EMAIL,CUST-6450,customer,I returned order ORD-86288 two weeks ago and I still have no refund. Where is my money?,Refund,resolved,,2026-09-02T12:55:00Z,22.1
+MSG-000572,TCK-10195,2026-09-02T07:02:00Z,EMAIL,CUST-6450,agent,I checked order ORD-86288. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-09-02T12:55:00Z,22.1
+MSG-000573,TCK-10195,2026-09-02T08:57:00Z,EMAIL,CUST-6450,customer,Can you confirm the address on the order?,,resolved,,2026-09-02T12:55:00Z,22.1
+MSG-000574,TCK-10195,2026-09-02T12:22:00Z,EMAIL,CUST-6450,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-09-02T12:55:00Z,22.1
+MSG-000575,TCK-10196,2026-07-07T08:28:00+07:00,chat,CUST-1270,customer,My parcel ORD-64926 has not moved for 4 days. Is something wrong?,Delivery,resolved,,2026-07-07T03:07:00Z,36.9
+MSG-000576,TCK-10196,2026-07-07T02:55:00Z,chat,CUST-1270,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-64926 and the parcel is with the carrier.,,resolved,,2026-07-07T03:07:00Z,36.9
+MSG-000577,TCK-10197,2026-08-06T04:58:00Z,E-mail,CUST-5833,customer,"Please cancel order ORD-99209, I ordered the wrong size.",cancel_order,pending,,,6.6
+MSG-000578,TCK-10197,2026-08-06T12:14:00+07:00,E-mail,CUST-5833,agent,"Order ORD-99209 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,pending,,,6.6
+MSG-000579,TCK-10198,2026-08-25T12:38:00Z,CHAT,CUST-2716,customer,Password reset email never arrives. Please help. You can reach me at cust2716@example.com.,Login,resolved,4,2026-08-25T13:54:00Z,12.6
+MSG-000580,TCK-10198,2026-08-25T20:49:00+07:00,CHAT,CUST-2716,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,4,2026-08-25T13:54:00Z,12.6
+MSG-000581,TCK-10199,2026-09-01T05:26:00Z,email,CUST-6409,customer,My headphones from order ORD-56891 stopped working after 3 months. Is this covered?,warranty_claim,resolved,5,2026-09-01T13:16:00Z,13.6
+MSG-000582,TCK-10199,2026-09-01T15:12:00+07:00,email,CUST-6409,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,5,2026-09-01T13:16:00Z,13.6
+MSG-000583,TCK-10199,2026-09-01T18:02:00+07:00,email,CUST-6409,customer,"Still nothing after a week, please check again.",,resolved,5,2026-09-01T13:16:00Z,13.6
+MSG-000584,TCK-10199,2026-09-01T12:53:00Z,email,CUST-6409,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-09-01T13:16:00Z,13.6
+MSG-000585,TCK-10200,2026-08-16 16:31:00,chat,CUST-4929,customer,"Refund for ORD-81130 still missing, it has been 27 days.",refund-status,resolved,1,2026-08-16T20:22:00Z,9.1
+MSG-000586,TCK-10200,2026-08-16T19:04:00+07:00,chat,CUST-4929,agent,I checked order ORD-81130. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,1,2026-08-16T20:22:00Z,9.1
+MSG-000587,TCK-10200,2026-08-16T14:01:00Z,chat,CUST-4929,customer,"Got it, thanks!",,resolved,1,2026-08-16T20:22:00Z,9.1
+MSG-000588,TCK-10200,2026-08-16T18:27:00Z,chat,CUST-4929,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,1,2026-08-16T20:22:00Z,9.1
+MSG-000589,TCK-10201,2026-08-02T06:46:00Z,Chat,CUST-8431,customer,I want to add one more item to ORD-68647. Is that possible?,order_change,pending,,,15.7
+MSG-000590,TCK-10201,2026-08-02T09:11:00Z,Chat,CUST-8431,agent,"Order ORD-68647 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,pending,,,15.7
+MSG-000591,TCK-10202,2026-08-23T01:37:00Z,EMAIL,CUST-3199,customer,"Refund for ORD-60078 still missing, it has been 10 days.",Refund,resolved,5,2026-08-23T10:20:00Z,21.7
+MSG-000592,TCK-10202,2026-08-23T02:21:00Z,EMAIL,CUST-3199,agent,I checked order ORD-60078. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,5,2026-08-23T10:20:00Z,21.7
+MSG-000593,TCK-10202,2026-08-23T07:20:00Z,EMAIL,CUST-3199,customer,Can you confirm the address on the order?,,resolved,5,2026-08-23T10:20:00Z,21.7
+MSG-000594,TCK-10202,2026-08-23T09:41:00Z,EMAIL,CUST-3199,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,5,2026-08-23T10:20:00Z,21.7
+MSG-000595,TCK-10203,2026-07-22T10:47:00+07:00,E-mail,CUST-8622,customer,How long do I have to send back a product? I bought it last week (ORD-79260).,return_policy,resolved,4,2026-07-22T14:54:00Z,15.6
+MSG-000596,TCK-10203,2026-07-22T13:20:00+07:00,E-mail,CUST-8622,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,4,2026-07-22T14:54:00Z,15.6
+MSG-000597,TCK-10203,2026-07-22T12:42:00Z,E-mail,CUST-8622,customer,"Got it, thanks!",,resolved,4,2026-07-22T14:54:00Z,15.6
+MSG-000598,TCK-10203,2026-07-22T13:14:00Z,E-mail,CUST-8622,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-07-22T14:54:00Z,15.6
+MSG-000599,TCK-10204,2026-06-15T11:04:00+07:00,Chat,CUST-6860,customer,Can I change the delivery address for order ORD-88848? I just placed it.,,resolved,4,2026-06-15T15:40:00Z,15.3
+MSG-000600,TCK-10204,2026-06-15T13:59:00+07:00,Chat,CUST-6860,agent,"Order ORD-88848 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,4,2026-06-15T15:40:00Z,15.3
+MSG-000601,TCK-10204,2026-06-15T19:56:00+07:00,Chat,CUST-6860,customer,Can you confirm the address on the order?,,resolved,4,2026-06-15T15:40:00Z,15.3
+MSG-000602,TCK-10204,2027-01-15T09:30:00Z,Chat,CUST-6860,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-06-15T15:40:00Z,15.3
+MSG-000603,TCK-10205,2026-09-20T12:47:00Z,web_form,CUST-1507,customer,Payment failed but money left my account. Order ORD-87716.,double_charge,pending,,,6.6
+MSG-000604,TCK-10205,2026-09-20T23:27:00+07:00,web_form,CUST-1507,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,pending,,,6.6
+MSG-000605,TCK-10205,2026-09-20T22:55:00Z,web_form,CUST-1507,customer,Can you confirm the address on the order?,,pending,,,6.6
+MSG-000606,TCK-10205,2026-09-21T01:53:00Z,web_form,CUST-1507,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,6.6
+MSG-000607,TCK-10206,2026-09-20T06:36:00Z,live_chat,CUST-5565,customer,When will order ORD-60875 arrive? I live in Da Nang.,shipping_delay,resolved,3,2026-09-20T18:43:00Z,15.4
+MSG-000608,TCK-10206,2026-09-20T15:09:00+07:00,live_chat,CUST-5565,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-60875 and the parcel is with the carrier.,,resolved,3,2026-09-20T18:43:00Z,15.4
+MSG-000609,TCK-10206,2026-09-20T12:10:00Z,live_chat,CUST-5565,customer,"Thank you, that helps.",,resolved,3,2026-09-20T18:43:00Z,15.4
+MSG-000610,TCK-10206,2026-09-20T16:48:00Z,live_chat,CUST-5565,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-09-20T18:43:00Z,15.4
+MSG-000611,TCK-10207,2026-06-11T11:30:00+07:00,Web Form,CUST-2851,customer,When will order ORD-81199 arrive? I live in Da Nang.,shipping_delay,resolved,,2026-06-11T05:29:00Z,14.7
+MSG-000612,TCK-10207,2026-06-11T05:24:00Z,Web Form,CUST-2851,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-81199 and the parcel is with the carrier.,,resolved,,2026-06-11T05:29:00Z,14.7
+MSG-000613,TCK-10208,2026-06-02T07:14:00Z,web_form,CUST-2389,customer,I lost my gift card code. Can you send it again?,TBD,resolved,4,2026-06-02T16:08:00Z,6.6
+MSG-000614,TCK-10208,2026-06-02T08:40:00Z,web_form,CUST-2389,agent,Gift cards are valid for 24 months. I have re-sent the code to the purchaser's email address.,,resolved,4,2026-06-02T16:08:00Z,6.6
+MSG-000615,TCK-10208,2026-06-02T21:14:00+07:00,web_form,CUST-2389,customer,"Got it, thanks!",,resolved,4,2026-06-02T16:08:00Z,6.6
+MSG-000616,TCK-10208,2026-06-02T21:40:00+07:00,web_form,CUST-2389,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-06-02T16:08:00Z,6.6
+MSG-000617,TCK-10209,2026-07-01T07:05:00Z,Chat,CUST-9714,customer,I want to add one more item to ORD-63160. Is that possible?,order_change,resolved,3,2026-07-01T11:51:00Z,10.8
+MSG-000618,TCK-10209,2026-07-01T09:11:00Z,Chat,CUST-9714,agent,"Order ORD-63160 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,3,2026-07-01T11:51:00Z,10.8
+MSG-000619,TCK-10209,2026-07-01T10:19:00Z,Chat,CUST-9714,customer,"Got it, thanks!",,resolved,3,2026-07-01T11:51:00Z,10.8
+MSG-000620,TCK-10209,2026-07-01T11:40:00Z,Chat,CUST-9714,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,3,2026-07-01T11:51:00Z,10.8
+MSG-000621,TCK-10210,2026-07-04T04:31:00Z,chat,CUST-5273,customer,I was charged twice for order ORD-74107. Please check.,double_charge,resolved,4,2026-07-04T13:08:00Z,15.4
+MSG-000622,TCK-10210,2026-07-04T07:37:00Z,chat,CUST-5273,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,4,2026-07-04T13:08:00Z,15.4
+MSG-000623,TCK-10210,2026-07-04T09:47:00Z,chat,CUST-5273,customer,Can you confirm the address on the order?,,resolved,4,2026-07-04T13:08:00Z,15.4
+MSG-000624,TCK-10210,2026-07-04T12:51:00Z,chat,CUST-5273,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,4,2026-07-04T13:08:00Z,15.4
+MSG-000625,TCK-10211,2026-07-08T12:30:00Z,E-mail,CUST-8848,customer,How long does express delivery take to Hanoi? Asking about ORD-54256. You can reach me at cust8848@example.com.,Delivery,pending,,,8.2
+MSG-000626,TCK-10211,2026-07-08T21:46:00+07:00,E-mail,CUST-8848,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-54256 and the parcel is with the carrier.,,pending,,,8.2
+MSG-000627,TCK-10212,2026-08-09T18:38:00+07:00,Email,CUST-2137,customer,How long do I have to send back a product? I bought it last week (ORD-60863). My phone is 0967 353 492.,,resolved,,2026-08-09T19:13:00Z,8.5
+MSG-000628,TCK-10212,2026-08-09T11:43:00Z,Email,CUST-2137,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,,2026-08-09T19:13:00Z,8.5
+MSG-000629,TCK-10212,2026-08-09T16:26:00Z,Email,CUST-2137,customer,Can you confirm the address on the order?,,resolved,,2026-08-09T19:13:00Z,8.5
+MSG-000630,TCK-10212,2026-08-09T17:26:00Z,Email,CUST-2137,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-09T19:13:00Z,8.5
+MSG-000631,TCK-10213,2026-08-26 09:35:00,live_chat,CUST-2276,customer,The laptop charger from ORD-94397 is broken. How do I make a warranty claim?,warranty_claim,resolved,5,2026-08-26T05:15:00Z,14.4
+MSG-000632,TCK-10213,2026-08-26T04:40:00Z,live_chat,CUST-2276,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,5,2026-08-26T05:15:00Z,14.4
+MSG-000633,TCK-10214,2026-06-10T17:29:00+07:00,live_chat,CUST-2580,customer,Order ORD-67989 was supposed to arrive yesterday. Any update?,shipping_delay,resolved,,2026-06-11T06:07:00Z,15.7
+MSG-000634,TCK-10214,2026-06-10T14:28:00Z,live_chat,CUST-2580,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-67989 and the parcel is with the carrier.,,resolved,,2026-06-11T06:07:00Z,15.7
+MSG-000635,TCK-10214,2026-06-11T06:48:00+07:00,live_chat,CUST-2580,customer,"Thank you, that helps.",,resolved,,2026-06-11T06:07:00Z,15.7
+MSG-000636,TCK-10214,2026-06-11T04:24:00Z,live_chat,CUST-2580,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-11T06:07:00Z,15.7
+MSG-000637,TCK-10215,2026-07-22T07:02:00Z,chat,CUST-4221,customer,How long does express delivery take to Hanoi? Asking about ORD-60005.,shipping_delay,resolved,4,2026-07-22T13:33:00Z,17.8
+MSG-000638,TCK-10215,2026-07-22T08:43:00Z,chat,CUST-4221,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-60005 and the parcel is with the carrier.,,resolved,4,2026-07-22T13:33:00Z,17.8
+MSG-000639,TCK-10215,2026-07-22T10:59:00Z,chat,CUST-4221,customer,"Got it, thanks!",,resolved,4,2026-07-22T13:33:00Z,17.8
+MSG-000640,TCK-10215,2026-07-22T12:56:00Z,chat,CUST-4221,agent,   ,,resolved,4,2026-07-22T13:33:00Z,17.8
+MSG-000641,TCK-10216,2026-07-20 11:22:00,live_chat,CUST-3570,customer,The laptop charger from ORD-66691 is broken. How do I make a warranty claim?,Warranty,resolved,4,2026-07-20T06:49:00Z,15.4
+MSG-000642,TCK-10216,2026-07-20T06:42:00Z,live_chat,CUST-3570,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,4,2026-07-20T06:49:00Z,15.4
+MSG-000643,TCK-10217,2026-06-14T13:15:00+07:00,webform,CUST-9820,customer,"Refund for ORD-79286 still missing, it has been 28 days.",refund-status,resolved,,2026-06-14T15:45:00Z,8.9
+MSG-000644,TCK-10217,2026-06-14T13:32:00+07:00,webform,CUST-9820,agent,I checked order ORD-79286. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,resolved,,2026-06-14T15:45:00Z,8.9
+MSG-000645,TCK-10217,2026-06-14T14:24:00Z,webform,CUST-9820,customer,"Thank you, that helps.",,resolved,,2026-06-14T15:45:00Z,8.9
+MSG-000646,TCK-10217,2026-06-14T21:32:00+07:00,webform,CUST-9820,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-14T15:45:00Z,8.9
+MSG-000647,TCK-10218,2026-09-13T12:56:00Z,chat,CUST-3368,customer,How long does express delivery take to Hanoi? Asking about ORD-57407.,delivery time,resolved,,2026-09-14T03:41:00Z,640
+MSG-000648,TCK-10218,2026-09-13T16:01:00Z,chat,CUST-3368,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-57407 and the parcel is with the carrier.,,resolved,,2026-09-14T03:41:00Z,640
+MSG-000649,TCK-10218,2026-09-14T00:56:00Z,chat,CUST-3368,customer,"Still nothing after a week, please check again.",,resolved,,2026-09-14T03:41:00Z,640
+MSG-000650,TCK-10218,2026-09-14T03:02:00Z,chat,CUST-3368,agent,,,resolved,,2026-09-14T03:41:00Z,640
+MSG-000651,TCK-10219,2026-06-19T09:31:00Z,live_chat,CUST-1815,customer,Order ORD-57419 was supposed to arrive yesterday. Any update?,delivery time,resolved,,2026-06-20T00:42:00Z,28.9
+MSG-000652,TCK-10219,2026-06-19T09:43:00Z,live_chat,CUST-1815,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-57419 and the parcel is with the carrier.,,resolved,,2026-06-20T00:42:00Z,28.9
+MSG-000653,TCK-10219,2026-06-20T01:44:00+07:00,live_chat,CUST-1815,customer,Can you confirm the address on the order?,,resolved,,2026-06-20T00:42:00Z,28.9
+MSG-000654,TCK-10219,2026-06-19T23:01:00Z,live_chat,CUST-1815,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-20T00:42:00Z,28.9
+MSG-000655,TCK-10220,2026-08-31T03:24:00Z,Chat,CUST-9788,customer,"Tôi muốn đổi trả sản phẩm trong đơn ORD-45730, làm thế nào?",cancel_order,resolved,,2026-08-31T19:37:00Z,7.9
+MSG-000656,TCK-10220,2026-08-31T05:39:00Z,Chat,CUST-9788,agent,"Order ORD-45730 has not been packed yet, so I have updated it for you. You will receive a confirmation email.",,resolved,,2026-08-31T19:37:00Z,7.9
+MSG-000657,TCK-10220,2026-08-31 22:21:00,Chat,CUST-9788,customer,"Got it, thanks!",,resolved,,2026-08-31T19:37:00Z,7.9
+MSG-000658,TCK-10220,2026-08-31T17:45:00Z,Chat,CUST-9788,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-31T19:37:00Z,7.9
+MSG-000659,TCK-10221,2026-07-05T12:53:00+07:00,Chat,CUST-5744,customer,My parcel ORD-82856 has not moved for 4 days. Is something wrong?,Delivery,resolved,5,2026-07-05T07:48:00Z,5.9
+MSG-000660,TCK-10221,2026-07-05T06:35:00Z,Chat,CUST-5744,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-82856 and the parcel is with the carrier.,,resolved,5,2026-07-05T07:48:00Z,5.9
+MSG-000661,TCK-10222,2026-06-03T04:09:00Z,E-mail,CUST-6531,customer,Payment failed but money left my account. Order ORD-98029.,,resolved,,2026-06-03T09:43:00Z,23.8
+MSG-000662,TCK-10222,2026-06-03T05:42:00Z,E-mail,CUST-6531,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-06-03T09:43:00Z,23.8
+MSG-000663,TCK-10222,2026-06-03 12:52:00,E-mail,CUST-6531,customer,"Still nothing after a week, please check again.",,resolved,,2026-06-03T09:43:00Z,23.8
+MSG-000664,TCK-10222,2026-06-03T14:54:00+07:00,E-mail,CUST-6531,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-03T09:43:00Z,23.8
+MSG-000665,TCK-10223,2026-06-04T08:59:00Z,email,CUST-4799,customer,My parcel ORD-81462 has not moved for 4 days. Is something wrong?,Delivery,pending,,,17.7
+MSG-000666,TCK-10223,2026-06-04 18:40:00,email,CUST-4799,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-81462 and the parcel is with the carrier.,,pending,,,17.7
+MSG-000667,TCK-10223,2026-06-04T19:56:00Z,email,CUST-4799,customer,Can you confirm the address on the order?,,pending,,,17.7
+MSG-000668,TCK-10223,2026-06-04T21:52:00Z,email,CUST-4799,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,17.7
+MSG-000669,TCK-10224,2026-07-30 15:10:00,webform,CUST-7063,customer,The jacket in order ORD-69704 is not what I expected. Is the return free?,,resolved,5,2026-07-30T10:20:00Z,13.5
+MSG-000670,TCK-10224,2026-07-30T08:47:00Z,webform,CUST-7063,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,resolved,5,2026-07-30T10:20:00Z,13.5
+MSG-000671,TCK-10225,2026-07-15T02:14:00Z,CHAT,CUST-5499,customer,Hoàn tiền đơn ORD-94546 mất bao lâu vậy?,Delivery,resolved,,2026-07-15T05:28:00Z,9.2
+MSG-000672,TCK-10225,2026-07-15T04:37:00Z,CHAT,CUST-5499,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-94546 and the parcel is with the carrier.,,resolved,,2026-07-15T05:28:00Z,9.2
+MSG-000673,TCK-10226,2026-06-29T04:57:00Z,E-mail,CUST-3612,customer,Payment failed but money left my account. Order ORD-97118.,payment_issue,resolved,,2026-06-29T13:17:00Z,22.1
+MSG-000674,TCK-10226,2026-06-29 15:33:00,E-mail,CUST-3612,agent,I can see only one paid order. The second amount is a temporary authorisation that your bank releases within 7 business days.,,resolved,,2026-06-29T13:17:00Z,22.1
+MSG-000675,TCK-10226,2026-06-29T11:23:00Z,E-mail,CUST-3612,customer,"Still nothing after a week, please check again.",,resolved,,2026-06-29T13:17:00Z,22.1
+MSG-000676,TCK-10226,2026-06-29T12:20:00Z,E-mail,CUST-3612,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-06-29T13:17:00Z,22.1
+MSG-000677,TCK-10227,2026-08-20T01:53:00Z,chat,CUST-4415,customer,The laptop charger from ORD-87529 is broken. How do I make a warranty claim?,Warranty,resolved,,2026-08-20T07:26:00Z,13.2
+MSG-000678,TCK-10227,2026-08-20T05:32:00Z,chat,CUST-4415,agent,Electronics have a 12-month warranty for manufacturing defects. Please send a short description and a photo or video and I will create a warranty case.,,resolved,,2026-08-20T07:26:00Z,13.2
+MSG-000679,TCK-10228,2026-07-10T08:57:00+07:00,Chat,CUST-1821,customer,Order ORD-93268 was supposed to arrive yesterday. Any update?,delivery time,resolved,5,2026-07-10T05:59:00Z,18.4
+MSG-000680,TCK-10228,2026-07-10T05:37:00Z,Chat,CUST-1821,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-93268 and the parcel is with the carrier.,,resolved,5,2026-07-10T05:59:00Z,18.4
+MSG-000681,TCK-10229,2026-07-02T09:54:00Z,E-mail,CUST-3058,customer,When will I get my refund for ORD-62611? The return was accepted on Monday.,refund_status,pending,,,30.7
+MSG-000682,TCK-10229,2026-07-02T12:02:00Z,E-mail,CUST-3058,agent,I checked order ORD-62611. The return passed inspection and the refund was approved. Card refunds take 5 to 10 business days depending on your bank.,,pending,,,30.7
+MSG-000683,TCK-10229,2026-07-02T14:23:00Z,E-mail,CUST-3058,customer,"Still nothing after a week, please check again.",,pending,,,30.7
+MSG-000684,TCK-10229,2026-07-02T21:41:00+07:00,E-mail,CUST-3058,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,30.7
+MSG-000685,TCK-10230,2026-08-14T08:04:00Z,EMAIL,CUST-9905,customer,How long does express delivery take to Hanoi? Asking about ORD-95152.,delivery_time,pending,,,18.9
+MSG-000686,TCK-10230,2026-08-14T11:12:00Z,EMAIL,CUST-9905,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-95152 and the parcel is with the carrier.,,pending,,,18.9
+MSG-000687,TCK-10230,2026-08-14T15:37:00Z,EMAIL,CUST-9905,customer,"Thank you, that helps.",,pending,,,18.9
+MSG-000688,TCK-10230,2026-08-14T17:55:00Z,EMAIL,CUST-9905,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,pending,,,18.9
+MSG-000689,TCK-10226,2026-06-29T04:57:30Z,E-mail,CUST-3612,customer,  PAYMENT FAILED BUT MONEY LEFT MY ACCOUNT. ORDER ORD-97118. ,,resolved,,2026-06-29T13:17:00Z,22.1
+MSG-000690,TCK-10144,2026-06-30T01:45:30Z,chat,CUST-5604,customer,"  PLEASE CANCEL ORDER ORD-70551, I ORDERED THE WRONG SIZE. ",,resolved,4,2026-06-30T03:55:00Z,13.8
+MSG-000691,TCK-10201,2026-08-02T06:46:30Z,Chat,CUST-8431,customer,  I WANT TO ADD ONE MORE ITEM TO ORD-68647. IS THAT POSSIBLE? ,,pending,,,15.7
+MSG-000692,TCK-10040,2026-06-02T10:56:30Z,chat,CUST-3875,customer,"  GOT IT, THANKS! ",,resolved,,2026-06-02T12:08:00Z,8.8
+MSG-000693,TCK-10003,2026-07-04T08:10:30Z,chat,CUST-8851,customer,  SCREEN FLICKERS ON THE TABLET I BOUGHT (ORD-76962). WHAT CAN I DO? ,,resolved,,2026-07-04T12:07:00Z,39.6
+MSG-000694,TCK-10036,2026-07-04T03:53:30Z,web_form,CUST-5364,customer,  WHEN WILL ORDER ORD-74388 ARRIVE? I LIVE IN DA NANG. ,,resolved,,2026-07-04T09:12:00Z,19.7
+MSG-000651,TCK-10219,2026-06-19T09:31:00Z,live_chat,CUST-1815,customer,Order ORD-57419 was supposed to arrive yesterday. Any update?,delivery time,resolved,,2026-06-20T00:42:00Z,28.9
+MSG-000429,TCK-10148,2026-08-07T21:06:00+07:00,EMAIL,CUST-1579,customer,OK. And what if it takes longer than that?,,resolved,4,2026-08-07T15:29:00Z,12.7
+MSG-000392,TCK-10134,2026-07-14T10:15:00Z,Chat,CUST-1688,agent,Please use the Forgot password link on the sign-in page. The link is valid for 30 minutes. For an email change I need your last order number and delivery postcode.,,resolved,,2026-07-14T12:05:00Z,9.2
+MSG-000001,TCK-10001,2026-08-04T09:44:00Z,webform,CUST-2681,customer,Order ORD-82414 was supposed to arrive yesterday. Any update?,delivery_time,resolved,,2026-08-04T16:51:00Z,11.1
+MSG-000124,TCK-10041,2026-06-16T03:58:00Z,email,CUST-6320,agent,"Thanks for reaching out. Items can be returned within 30 days of delivery if unused and in original packaging. Open the order page, choose Return item and print the free label.",,pending,,,23.9
+MSG-000675,TCK-10226,2026-06-29T11:23:00Z,E-mail,CUST-3612,customer,"Still nothing after a week, please check again.",,resolved,,2026-06-29T13:17:00Z,22.1
+MSG-000547,TCK-10187,2026-06-28T19:07:00Z,EMAIL,CUST-9058,customer,"Got it, thanks!",,resolved,,2026-06-28T21:54:00Z,6.4
+MSG-000033,TCK-10012,2026-06-14T16:38:00+07:00,chat,CUST-5534,customer,Payment failed but money left my account. Order ORD-60548.,payment_issue,resolved,4,2026-06-14T15:19:00Z,10.6
+MSG-000414,TCK-10141,2026-08-14T15:15:00Z,Chat,CUST-7514,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-14T15:26:00Z,20.2
+MSG-000655,TCK-10220,2026-08-31T03:24:00Z,Chat,CUST-9788,customer,"Tôi muốn đổi trả sản phẩm trong đơn ORD-45730, làm thế nào?",cancel_order,resolved,,2026-08-31T19:37:00Z,7.9
+MSG-000068,TCK-10021,2026-09-04T11:21:00Z,E-mail,CUST-3090,agent,Standard delivery takes 3 to 6 business days outside Hanoi and Ho Chi Minh City. I have checked ORD-83046 and the parcel is with the carrier.,,pending,,,5.3
+MSG-000240,TCK-10081,2026-08-24T17:47:00Z,Chat,CUST-3183,agent,Thanks for the update. I have added a note to the ticket and will follow up by email.,,resolved,,2026-08-24T18:12:00Z,27.5
